@@ -1,1 +1,44 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enflied Engine Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Projects - Enflied Engine</h1>
+        <p>Enflied is a 2D multiplatform engine with extensive support for input methods and customization.</p>
+        <p>The engine is coded in C++, hosts Lua scripting, and utilizes GLM, LuaBridge, Rapidjson, SDL2, BOX2D, ImGui, etc.</p>
+        <a href="#">Watch a demonstration of the engine here!</a>
+    </header>
+
+    <section id="lua-integration">
+        <h2>Lua Integration Classes and Functions</h2>
+
+        <div class="submenu" id="submenu-actor">
+            <h3>Actor Class</h3>
+            <ul>
+                <li>GetName() - Retrieve the actor's name.</li>
+                <li>GetID() - Fetch the unique identifier of the actor.</li>
+                <li>GetComponentByKey(key) - Get a component of the actor by its key.</li>
+                <li>GetComponent(type) - Get a component based on its type.</li>
+                <li>GetComponents() - Retrieve all components attached to the actor.</li>
+                <li>Find(name) - Static function to find an actor by name.</li>
+                <li>FindAll(name) - Static function to find all actors by name.</li>
+                <li>AddComponent(component) - Add a component to the actor from Lua.</li>
+                <li>RemoveComponent(component) - Remove a component from the actor from Lua.</li>
+                <li>Instantiate() - Static function to create a new actor instance.</li>
+                <li>Destroy() - Static function to destroy an actor.</li>
+            </ul>
+        </div>
+        <!-- Repeat the structure above for each submenu category -->
+
+    </section>
+
+    <footer>
+        <p>© 2024 Enflied Engine Team</p>
+    </footer>
+</body>
+</html>
