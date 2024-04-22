@@ -8,9 +8,9 @@
 </head>
 <body>
     <header>
-        <h1>Projects - Enflied Engine</h1>
-        <p>Enflied is a 2D multiplatform engine with extensive support for input methods and customization.</p>
-        <p>The engine is coded in C++, hosts Lua scripting, and utilizes GLM, LuaBridge, Rapidjson, SDL2, BOX2D, ImGui, etc.</p>
+        <h1>Enflied Engine</h1>
+        <p>Enflied is a 2D multiplatform Multi Threaded C++ based Game Engine with a User Interface with extensive support for input methods and customization.</p>
+        <p>The engine is coded in C++, hosts Lua scripting, and utilizes GLM, LuaBridge, Rapidjson, SDL2, BOX2D, ImGui. </p>
         <a href="#">Watch a demonstration of the engine here!</a>
     </header>
 
@@ -33,7 +33,150 @@
                 <li>Destroy() - Static function to destroy an actor.</li>
             </ul>
         </div>
-        <!-- Repeat the structure above for each submenu category -->
+        
+        <div class="submenu" id="submenu-application">
+            <h3>Application Namespace</h3>
+            <ul>
+                <li>Quit() - Exits the application.</li>
+                <li>Sleep(milliseconds) - Delays the application for a specified number of milliseconds.</li>
+                <li>GetFrame() - Returns the current frame count since the application started.</li>
+                <li>OpenURL(url) - Opens a URL in the default web browser.</li>
+            </ul>
+        </div>
+        
+        <div class="submenu" id="submenu-input">
+            <h3>Input Class</h3>
+            <ul>
+                <li>GetKey(keyCode) - Returns true if the specified key is currently being pressed.</li>
+                <li>GetKeyDown(keyCode) - Returns true if the specified key was pressed down in the current frame.</li>
+                <li>GetKeyUp(keyCode) - Returns true if the specified key was released in the current frame.</li>
+                <li>GetMousePosition() - Returns the current position of the mouse cursor as a 'vec2'.</li>
+                <li>GetMouseButton(button) - Returns true if the specified mouse button is currently being pressed.</li>
+                <li>GetMouseButtonDown(button) - Returns true if the specified mouse button was pressed down in the current frame.</li>
+                <li>GetMouseButtonUp(button) - Returns true if the specified mouse button was released in the current frame.</li>
+                <li>GetMouseScrollDelta() - Returns the amount the mouse wheel has been scrolled in the current frame.</li>
+            </ul>
+        </div>
+        
+        <div class="submenu" id="submenu-textdb">
+            <h3>TextDB Class</h3>
+            <ul>
+                <li>Draw(text, x, y, scale, color) - Draws text at the specified position with given scale and color.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-audiodb">
+            <h3>AudioDB Class</h3>
+            <ul>
+                <li>Play(soundID) - Plays the sound effect associated with the given sound ID.</li>
+                <li>Halt(soundID) - Halts playback of the sound effect associated with the given sound ID.</li>
+                <li>SetVolume(soundID, volume) - Sets the volume for the sound effect associated with the given sound ID.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-imagedb">
+            <h3>ImageDB Class</h3>
+            <ul>
+                <li>DrawUI(imageID, x, y, width, height) - Draws a UI image at the specified coordinates.</li>
+                <li>DrawUIEx(imageID, x, y, width, height, rotation, color) - Draws a UI image with additional parameters like rotation and color.</li>
+                <li>Draw(imageID, x, y) - Draws an image at the specified screen coordinates.</li>
+                <li>DrawEx(imageID, x, y, scaleX, scaleY, rotation, color) - Draws an image with scaling, rotation, and color adjustments.</li>
+                <li>DrawPixel(x, y, color) - Draws a single pixel at the specified screen coordinates.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-camerabounds">
+            <h3>CameraBounds Class</h3>
+            <ul>
+                <li>SetPosition(x, y) - Sets the camera's position in the game world.</li>
+                <li>GetPositionX() - Returns the current X-coordinate of the camera's position.</li>
+                <li>GetPositionY() - Returns the current Y-coordinate of the camera's position.</li>
+                <li>SetZoom(zoomLevel) - Sets the zoom level of the camera.</li>
+                <li>GetZoom() - Retrieves the current zoom level of the camera.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-scene">
+            <h3>Scene Class</h3>
+            <ul>
+                <li>Load(sceneName) - Loads a new scene, transitioning from the current scene.</li>
+                <li>GetCurrent() - Returns the name of the current active scene.</li>
+                <li>DontDestroy(object) - Marks an object to not be destroyed when loading a new scene.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-rigidbody">
+            <h3>Rigidbody Class</h3>
+            <ul>
+                <li>GetPosition() - Returns the current position.</li>
+                <li>GetRotation() - Returns the current rotation angle.</li>
+                <li>AddForce(forceVec) - Applies a force vector to the Rigidbody.</li>
+                <li>SetVelocity(velocityVec) - Sets the velocity vector of the Rigidbody.</li>
+                <li>SetPosition(x, y) - Sets the position of the Rigidbody.</li>
+                <li>SetRotation(angle) - Sets the rotation of the Rigidbody.</li>
+                <li>GetVelocity() - Returns the current velocity vector.</li>
+                <li>SetUpDirection(directionVec) - Sets the 'up' direction vector.</li>
+                <li>GetUpDirection() - Gets the current 'up' direction vector.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-collision-b2vec2">
+            <h3>Collision and b2Vec2 Classes</h3>
+            <ul>
+                <li>other - The other object involved in the collision.</li>
+                <li>point - The point at which the collision occurred.</li>
+                <li>relative_velocity - The velocity relative to the other object at the point of impact.</li>
+                <li>normal - The collision normal vector.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-physics">
+            <h3>Physics and HitResult Classes</h3>
+            <ul>
+                <li>Raycast(startPoint, endPoint) - Performs a raycast from start to end point, returning a HitResult.</li>
+                <li>RaycastAll(startPoint, endPoint) - Performs a raycast that returns all hits along the ray's path.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-eventbus">
+            <h3>EventBus Class</h3>
+            <ul>
+                <li>Publish(eventType, eventArgs) - Publishes an event to all subscribed listeners.</li>
+                <li>Subscribe(eventType, listener) - Subscribes a listener function to an event type.</li>
+                <li>Unsubscribe(eventType, listener) - Unsubscribes a listener from an event type.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-vector2">
+            <h3>Vector2 Class</h3>
+            <ul>
+                <li>Normalize() - Normalizes the vector so that its length is 1.</li>
+                <li>Length() - Returns the length (magnitude) of the vector.</li>
+                <li>Distance(v1, v2) - Calculates the distance between two vectors.</li>
+                <li>Dot(v1, v2) - Computes the dot product of two vectors.</li>
+                <li>__add - Allows adding two Vector2 objects with the '+' operator.</li>
+                <li>__sub - Allows subtracting two Vector2 objects with the '-' operator.</li>
+                <li>__mul - Allows multiplying a Vector2 object with a scalar or another Vector2 with the '*' operator.</li>
+            </ul>
+        </div>
+
+        <div class="submenu" id="submenu-game-manager">
+            <h3>GameManager Functions</h3>
+            <ul>
+                <li>AddGame(game) - Adds a game to the list.</li>
+                <li>DeleteGame(game) - Removes a game from the list.</li>
+                <li>ListGames() - Displays all games in the list.</li>
+                <li>FindGame(game_name) - Checks if a game exists in the list.</li>
+                <li>SortGames() - Sorts the list of games alphabetically.</li>
+                <li>RandomizeGames() - Shuffles the list of games.</li>
+                <li>LoadGamesFromFile(filename) - Loads games from a specified file.</li>
+                <li>SaveGamesToFile(filename) - Saves the current list of games to a file.</li>
+                <li>CountGames() - Returns the number of games in the list.</li>
+                <li>RemoveAllGames() - Clears the list of games.</li>
+                <li>MergeLists(otherList) - Compares and merges another list into the current list.</li>
+            </ul>
+        </div>
+    </section>
 
     </section>
 
