@@ -1,5 +1,16 @@
 # Site navigation links
   
+- title: Experience
+  url: /experience/
+
 - title: Projects
   url: /projects/
+
+- title: blog
+  url: /blog/
+
+- title: photography
+  url: /photography/
+
+
 
