@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+
+<head></head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn" style="background-color:rgba(0,0,0,0);">
+            <div class="content">
+                <div class="post-title">
+                    <h1 style="color:white;">About Me</h1>
+                    <a class="btn zoombtn" href="{{ site.url }}" style="background-color:rgba(0,0,0,0);">
+                        <i class="fa fa-home" style="font-size: 1.25em;color:white;"></i>
+                    </a>
+                </div>
+                <div class="post-list">
+                    <div class="wow fadeInLeft" data-wow-duration="1.5s" style="background-color:rgba(255,255,255,0.7); padding: 20px; border-radius: 10px;">
+                        <p>Hello! I'm <b>Porvesh Balasubramanian</b>, a Computer Science student with a Mathematics minor at the University of Michigan. My involvement extends beyond the classroom to the Taekwondo club and the Michigan Cricket Club. I have a strong interest in <b>Systems, Algorithms, and Robotics</b>, and I am driven by the excitement of solving complex problems and bringing innovative concepts into reality.</p>
+                        
+                        <p>Beyond academics, I'm passionate about <b>photography, music, and sports</b>, with a particular fondness for Cricket and Tennis. Rafael Nadal and Sachin Tendulkar are sports heroes of mine. I play Division 1 cricket in the Michigan Cricket League and enjoy spending time reviewing and analyzing cricket games.</p>
+                        
+                        <p>Currently, I am involved in the <b>Real-Time Computing Lab</b> as a Robotics Research Assistant and the <b>Order Lab</b> as a Distributed Systems Research Assistant. Last summer, I had the wonderful experience of working as a Networking Engineer at <b>Northrop Grumman</b>. I'm always ready for a chat about tech, sports, or any engaging topic.</p>
+                        
+                        <p>If you're interested in exchanging ideas or just connecting, feel free to reach out on <a href="https://www.linkedin.com" style="text-decoration: underline; color: white;">LinkedIn</a> or via <a href="mailto:porvesh@example.com" style="text-decoration: underline; color: white;">Email</a>.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+    <script type="text/javascript">(new WOW).init();</script>
+</body>
+</html>
