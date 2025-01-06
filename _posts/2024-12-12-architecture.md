@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advanced Out-of-Order RISC-V Processor"
-date: 2024-05-10
+date: 2024-12-12
 excerpt: "Developed a high-performance RISC-V processor featuring advanced pipelining, branch prediction, and caching mechanisms."
 tags: [RISC-V, SystemVerilog, Processor Design]
 comments: true

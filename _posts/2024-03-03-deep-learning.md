@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep Learning"
-date: 2024-05-08
+date: 2024-03-03
 excerpt: "Implementation of neural networks and reinforcement learning algorithms in Python."
 tags: [Python, Deep Learning, Neural Networks]
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Operating Systems"
 date: 2023-12-12
 excerpt: "Custom system calls, Unix shell, and memory management in C++."

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: project
 title: "Networking"
-date: 2024-06-06
+date: 2024-01-01
 excerpt: "Video CDN implementation and network diagnostic tools."
 tags: [Networking, Systems, C]
 comments: true
