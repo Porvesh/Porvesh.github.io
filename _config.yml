@@ -28,6 +28,11 @@ sass:
 # Comments
 disqus_shortname:   porvesh
 
+# collections
+collections:
+  work:
+    output: true
+
 # Social
 # if you don't have any of social below, comment the line.
 #google:
