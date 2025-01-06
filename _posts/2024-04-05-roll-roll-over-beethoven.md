@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Roll Over Beethoven: A Cloth Piano"
 date: 2024-04-05
 excerpt: "A portable cloth piano using capacitive cloth and pressure-sensitive gloves."

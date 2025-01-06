@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Deep Learning"
 date: 2024-03-03
 excerpt: "Implementation of neural networks and reinforcement learning algorithms in Python."

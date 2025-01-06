@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Enfield Engine"
 date: 2024-05-05
 excerpt: "A high-performance, multi-threaded game engine crafted in C++ with Lua scripting and advanced physics."
