@@ -1,6 +1,9 @@
 ---
 layout: experience
 title: "Real-Time Computing Lab"
+id: "rtcl"
+role: "Robotics Research Assistant"
+time_period: "April 2024 - Present"
 date: 2024-04-01
 ---
 
