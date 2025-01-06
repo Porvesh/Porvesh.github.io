@@ -15,21 +15,10 @@
             align-items: center;
             padding: 50px;
         }
-        .home-button {
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        .home-button a {
-            color: white;
-            background-color: #3e9aab;
-            padding: 10px 15px;
-            text-decoration: none;
-            border-radius: 5px;
-        }
         .experience-container {
             max-width: 1000px;
             display: flex;
-            flex-direction: row-reverse;
+            flex-direction: row-reverse; /* Reversed order */
             gap: 20px;
         }
         .company-list {
@@ -37,8 +26,6 @@
             min-width: 200px;
             border-right: 2px solid #3e9aab;
             padding-right: 20px;
-            max-height: 400px; /* Limit the height for scrolling */
-            overflow-y: auto; /* Enable scrolling */
         }
         .company-list ul {
             list-style: none;
@@ -55,14 +42,9 @@
         .company-list a:hover {
             text-decoration: underline;
         }
-        .company-list .dates {
-            font-size: 0.9rem;
-            color: #8892b0;
-            margin-top: 5px;
-        }
         .details {
             flex: 2;
-            background-color: rgba(0, 10, 20, 0.9);
+            background-color: rgba(0, 10, 20, 0.9); /* Darker background */
             padding: 20px;
             border-radius: 10px;
             display: none; /* Hide details initially */
@@ -78,7 +60,7 @@
         .role-title {
             font-size: 1rem;
             font-weight: bold;
-            color: #ccd6f6;
+            color: #8892b0;
         }
         .time-period {
             font-size: 0.9rem;
@@ -96,29 +78,24 @@
             color: #3e9aab;
             text-decoration: underline;
         }
-        .default-dates {
-            color: #3e9aab;
-            margin-top: 10px;
-            text-align: center;
-        }
     </style>
 </head>
 <body>
     {% include nav.html %}
     <header class="header">
+        <div class="post-title">
+            <h1>{{ page.title }}</h1>
+            <a class="btn zoombtn" href="{{ site.url }}">
+                <i class="fa fa-home" style="font-size: 1.25em;"></i>
+            </a>
+        </div>
         <div class="experience-section">
-            <div class="home-button">
-                <a href="{{ site.url }}">Home</a>
-            </div>
             <h1>Where I've Worked</h1>
             <div class="experience-container">
                 <div class="company-list">
                     <ul>
-                        {% for experience in site.work reversed %}
-                        <li>
-                            <a onclick="showDetails('{{ experience.id }}')">{{ experience.title }}</a>
-                            <div class="dates">{{ experience.date }}</div>
-                        </li>
+                        {% for experience in site.work reversed %} <!-- Reversed order -->
+                        <li><a onclick="showDetails('{{ experience.id }}')">{{ experience.title }}</a></li>
                         {% endfor %}
                     </ul>
                 </div>
@@ -133,14 +110,6 @@
                 </div>
                 {% endfor %}
             </div>
-            <div class="default-dates">
-                <p>Dates of Experiences:</p>
-                <ul>
-                    {% for experience in site.work reversed %}
-                    <li>{{ experience.title }}: {{ experience.date }}</li>
-                    {% endfor %}
-                </ul>
-            </div>
         </div>
     </header>
     {% include scripts.html %}
@@ -152,8 +121,6 @@
             });
             // Show selected details
             document.getElementById(id).classList.add('active');
-            // Hide the default dates section
-            document.querySelector('.default-dates').style.display = 'none';
         }
     </script>
 </body>
