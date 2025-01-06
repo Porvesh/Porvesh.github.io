@@ -9,74 +9,113 @@
             color: white;
             background-color: #0a192f;
         }
-        .timeline-section {
+        .experience-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             padding: 50px;
         }
-        .timeline-container {
+        .experience-container {
+            max-width: 1000px;
             display: flex;
             flex-direction: row;
             gap: 20px;
-            max-width: 1200px;
-            margin: auto;
         }
-        .timeline {
+        .company-list {
             flex: 1;
+            min-width: 200px;
             border-left: 2px solid #64ffda;
             padding-left: 20px;
         }
-        .timeline ul {
+        .company-list ul {
             list-style: none;
             padding: 0;
         }
-        .timeline li {
-            margin-bottom: 20px;
+        .company-list li {
+            margin: 10px 0;
         }
-        .timeline li span {
-            color: #8892b0;
-            font-size: 0.9rem;
-            display: block;
-        }
-        .timeline li a {
+        .company-list a {
             color: #64ffda;
             text-decoration: none;
+            cursor: pointer;
         }
-        .timeline li a:hover {
+        .company-list a:hover {
             text-decoration: underline;
         }
-        .home-button {
-            margin-bottom: 20px;
+        .details {
+            flex: 2;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            display: none; /* Hide details initially */
         }
-        .home-button a {
-            color: white;
-            background-color: #64ffda;
-            padding: 10px 15px;
-            text-decoration: none;
-            border-radius: 5px;
+        .details.active {
+            display: block; /* Show the active details */
+        }
+        .company-title {
+            font-size: 1.2rem;
+            color: #64ffda;
+            margin-bottom: 10px;
+        }
+        .role-title {
+            font-size: 1rem;
+            font-weight: bold;
+            color: #ccd6f6;
+        }
+        .time-period {
+            font-size: 0.9rem;
+            color: #8892b0;
+            margin-bottom: 10px;
+        }
+        ul {
+            padding-left: 20px;
+            margin-top: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #64ffda;
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
     {% include nav.html %}
     <header class="header">
-        <div class="timeline-section">
-            <div class="home-button">
-                <a href="{{ site.url }}">Home</a>
-            </div>
+        <div class="experience-section">
             <h1>Where I've Worked</h1>
-            <div class="timeline-container">
-                <div class="timeline">
+            <div class="experience-container">
+                <div class="company-list">
                     <ul>
-                        {% for post in site.experiences %}
-                        <li>
-                            <span>{{ post.date | date: "%b %Y" }}</span>
-                            <a href="{{ post.url }}">{{ post.title }}</a>
-                        </li>
+                        {% for experience in site.work %}
+                        <li><a onclick="showDetails('{{ experience.id }}')">{{ experience.title }}</a></li>
                         {% endfor %}
                     </ul>
                 </div>
+                {% for experience in site.work %}
+                <div class="details" id="{{ experience.id }}">
+                    <p class="company-title">{{ experience.title }}</p>
+                    <p class="role-title">{{ experience.role }}</p>
+                    <p class="time-period">{{ experience.time_period }}</p>
+                    <ul>
+                        {{ experience.content | markdownify }}
+                    </ul>
+                </div>
+                {% endfor %}
             </div>
         </div>
     </header>
     {% include scripts.html %}
+    <script>
+        function showDetails(id) {
+            // Hide all details
+            document.querySelectorAll('.details').forEach(function(detail) {
+                detail.classList.remove('active');
+            });
+            // Show selected details
+            document.getElementById(id).classList.add('active');
+        }
+    </script>
 </body>
 </html>
