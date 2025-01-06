@@ -4,7 +4,7 @@ title: "Real-Time Computing Lab"
 id: "rtcl"
 role: "Robotics Research Assistant"
 time_period: "April 2024 - Present"
-date: 2024-04-01
+date: 2024-05-01
 ---
 
 ### Real-Time Computing Lab  
