@@ -18,14 +18,14 @@
         .experience-container {
             max-width: 1000px;
             display: flex;
-            flex-direction: row-reverse; /* Reversed order */
+            flex-direction: row; /* Normal order: list on left, details on right */
             gap: 20px;
         }
         .company-list {
             flex: 1;
             min-width: 200px;
-            border-left: 2px solid #1DB954;
-            padding-left: 20px;
+            border-right: 2px solid #1DB954; /* Adjust border to the right */
+            padding-right: 20px;
         }
         .company-list ul {
             list-style: none;
@@ -82,6 +82,16 @@
         h1 {
             color: #E5E5E5;
             margin-bottom: 30px;
+        }
+        .home-button {
+            margin-bottom: 20px;
+        }
+        .home-button a {
+            color: white;
+            background-color: #1DB954;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
         }
     </style>
 </head>
