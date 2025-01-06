@@ -1,13 +1,11 @@
 ---
 layout: compress
+title: Projects
+permalink: /projects/
 ---
 
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
-<html class="no-js"></html>
+<html class="no-js">
 <head>
     {% include head.html %}
     <style>
@@ -49,15 +47,21 @@ layout: compress
     {% include nav.html %}
     <!-- Header -->
     <header class="header" role="banner">
-
-        <div class="wrapper animated fadeIn" style="background-color:rgba(0,0,0,0);" style="background-color:rgba(255,255,255,0.7); padding: 20px; border-radius: 10px;">
+        <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="{{ site.url }}">
-                        <i class="fa fa-home" style="font-size: 1.25em;"></i>
+                        <i class="fa fa-home" style="font-size: 1.25em;"></i> Home
                     </a>
                 </div>
+
+                <div>
+                    {% for post in site.posts %}
+                        <p>{{ post.title }} - {{ post.project }}</p>
+                    {% endfor %}
+                </div>
+                
                 <div class="post-list">
                     <ul>
                         {% for post in site.posts %}
