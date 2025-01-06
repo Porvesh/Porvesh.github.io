@@ -1,49 +1,48 @@
----
-layout: compress
----
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<html class="no-js">
 <head>
     {% include head.html %}
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: white;
+            background-color: #0a192f;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #64ffda;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2rem;
+            color: #8892b0;
+        }
+        .home-button {
+            margin-top: 20px;
+        }
+        .home-button a {
+            color: white;
+            background-color: #64ffda;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .home-button a:hover {
+            background-color: #3e9aab;
+        }
+    </style>
 </head>
 <body>
     {% include nav.html %}
-    <!-- Header -->
     <header class="header" role="banner">
-        <div class="wrapper animated fadeIn" style="background-color:rgba(255,255,255,0.9);">
-            <div class="content">
-                <div class="post-title {% if page.feature %} feature {% endif %}">
-                    <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
-                    {% if site.reading_time %}
-                    <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
-                      {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
-                    {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/publications/">
-                    {% endif %}
-                        <i class="fa fa-chevron-left"></i>
-                    </a>
-                </div>
-                {{ content }}
-                <div class="entry-meta">
-                {% include meta.html %}
-                </div>
-            </div>
+        <h1>{{ page.title }}</h1>
+        <p>Coming Soon</p>
+        <div class="home-button">
+            <a href="{{ site.url }}">Go Home</a>
         </div>
-        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp" style="background-color:rgba(255,255,255,0.9);"></section><!-- /#disqus_thread -->{% endif %}
     </header>
     {% include scripts.html %}
-    {% if site.mathjax == true %}
-    <!-- MathJax -->
-    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    {% endif %}
 </body>
 </html>

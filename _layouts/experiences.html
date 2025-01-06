@@ -6,8 +6,8 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            color: #ccd6f6;
-            background-color: #020c1b;
+            color: white;
+            background-color: #0a192f;
         }
         .experience-section {
             display: flex;
@@ -24,8 +24,8 @@
         .company-list {
             flex: 1;
             min-width: 200px;
-            border-right: 2px solid #3e9aab;
-            padding-right: 20px;
+            border-left: 2px solid #64ffda;
+            padding-left: 20px;
         }
         .company-list ul {
             list-style: none;
@@ -35,36 +35,27 @@
             margin: 10px 0;
         }
         .company-list a {
-            color: #3e9aab;
+            color: #64ffda;
             text-decoration: none;
             cursor: pointer;
         }
         .company-list a:hover {
             text-decoration: underline;
         }
-        .details {
-            flex: 2;
-            background-color: rgba(0, 10, 20, 0.9); /* Darker background */
-            padding: 20px;
-            border-radius: 10px;
-            display: none; /* Hide details initially */
-        }
-        .details.active {
-            display: block; /* Show the active details */
-        }
+     
         .company-title {
             font-size: 1.2rem;
-            color: #3e9aab;
+            color: #64ffda;
             margin-bottom: 10px;
         }
         .role-title {
             font-size: 1rem;
             font-weight: bold;
-            color: #8892b0;
+            color: #ccd6f6;
         }
         .time-period {
             font-size: 0.9rem;
-            color: #556877;
+            color: #8892b0;
             margin-bottom: 10px;
         }
         ul {
@@ -75,7 +66,7 @@
             margin-bottom: 10px;
         }
         a {
-            color: #3e9aab;
+            color: #64ffda;
             text-decoration: underline;
         }
     </style>
@@ -83,23 +74,25 @@
 <body>
     {% include nav.html %}
     <header class="header">
-        <div class="post-title">
-            <h1>{{ page.title }}</h1>
-            <a class="btn zoombtn" href="{{ site.url }}">
-                <i class="fa fa-home" style="font-size: 1.25em;"></i>
-            </a>
-        </div>
         <div class="experience-section">
             <h1>Where I've Worked</h1>
+
+            <div class="post-title">
+                <h1>{{ page.title }}</h1>
+                <a class="btn zoombtn" href="{{ site.url }}">
+                    <i class="fa fa-home" style="font-size: 1.25em;"></i>
+                </a>
+            </div>
+            
             <div class="experience-container">
                 <div class="company-list">
                     <ul>
-                        {% for experience in site.work reversed %} <!-- Reversed order -->
+                        {% for experience in site.work %}
                         <li><a onclick="showDetails('{{ experience.id }}')">{{ experience.title }}</a></li>
                         {% endfor %}
                     </ul>
                 </div>
-                {% for experience in site.work reversed %}
+                {% for experience in site.work %}
                 <div class="details" id="{{ experience.id }}">
                     <p class="company-title">{{ experience.title }}</p>
                     <p class="role-title">{{ experience.role }}</p>
