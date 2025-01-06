@@ -6,8 +6,8 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            color: white;
-            background-color: #0a192f;
+            color: #ccd6f6;
+            background-color: #020c1b;
         }
         .experience-section {
             display: flex;
@@ -15,17 +15,30 @@
             align-items: center;
             padding: 50px;
         }
+        .home-button {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .home-button a {
+            color: white;
+            background-color: #3e9aab;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
         .experience-container {
             max-width: 1000px;
             display: flex;
-            flex-direction: row;
+            flex-direction: row-reverse;
             gap: 20px;
         }
         .company-list {
             flex: 1;
             min-width: 200px;
-            border-left: 2px solid #64ffda;
-            padding-left: 20px;
+            border-right: 2px solid #3e9aab;
+            padding-right: 20px;
+            max-height: 400px; /* Limit the height for scrolling */
+            overflow-y: auto; /* Enable scrolling */
         }
         .company-list ul {
             list-style: none;
@@ -35,16 +48,21 @@
             margin: 10px 0;
         }
         .company-list a {
-            color: #64ffda;
+            color: #3e9aab;
             text-decoration: none;
             cursor: pointer;
         }
         .company-list a:hover {
             text-decoration: underline;
         }
+        .company-list .dates {
+            font-size: 0.9rem;
+            color: #8892b0;
+            margin-top: 5px;
+        }
         .details {
             flex: 2;
-            background-color: rgba(255, 255, 255, 0.9);
+            background-color: rgba(0, 10, 20, 0.9);
             padding: 20px;
             border-radius: 10px;
             display: none; /* Hide details initially */
@@ -54,7 +72,7 @@
         }
         .company-title {
             font-size: 1.2rem;
-            color: #64ffda;
+            color: #3e9aab;
             margin-bottom: 10px;
         }
         .role-title {
@@ -64,7 +82,7 @@
         }
         .time-period {
             font-size: 0.9rem;
-            color: #8892b0;
+            color: #556877;
             margin-bottom: 10px;
         }
         ul {
@@ -75,8 +93,13 @@
             margin-bottom: 10px;
         }
         a {
-            color: #64ffda;
+            color: #3e9aab;
             text-decoration: underline;
+        }
+        .default-dates {
+            color: #3e9aab;
+            margin-top: 10px;
+            text-align: center;
         }
     </style>
 </head>
@@ -84,16 +107,22 @@
     {% include nav.html %}
     <header class="header">
         <div class="experience-section">
+            <div class="home-button">
+                <a href="{{ site.url }}">Home</a>
+            </div>
             <h1>Where I've Worked</h1>
             <div class="experience-container">
                 <div class="company-list">
                     <ul>
-                        {% for experience in site.work %}
-                        <li><a onclick="showDetails('{{ experience.id }}')">{{ experience.title }}</a></li>
+                        {% for experience in site.work reversed %}
+                        <li>
+                            <a onclick="showDetails('{{ experience.id }}')">{{ experience.title }}</a>
+                            <div class="dates">{{ experience.date }}</div>
+                        </li>
                         {% endfor %}
                     </ul>
                 </div>
-                {% for experience in site.work %}
+                {% for experience in site.work reversed %}
                 <div class="details" id="{{ experience.id }}">
                     <p class="company-title">{{ experience.title }}</p>
                     <p class="role-title">{{ experience.role }}</p>
@@ -103,6 +132,14 @@
                     </ul>
                 </div>
                 {% endfor %}
+            </div>
+            <div class="default-dates">
+                <p>Dates of Experiences:</p>
+                <ul>
+                    {% for experience in site.work reversed %}
+                    <li>{{ experience.title }}: {{ experience.date }}</li>
+                    {% endfor %}
+                </ul>
             </div>
         </div>
     </header>
@@ -115,6 +152,8 @@
             });
             // Show selected details
             document.getElementById(id).classList.add('active');
+            // Hide the default dates section
+            document.querySelector('.default-dates').style.display = 'none';
         }
     </script>
 </body>
