@@ -33,7 +33,7 @@ layout: compress
             color: #ccd6f6;
         }
         .btn.zoombtn {
-            color: #64ffda;
+            color: #000000;
             text-decoration: none;
             padding: 10px 20px;
             border-radius: 5px;
@@ -55,43 +55,21 @@ layout: compress
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="{{ site.url }}">
-                        <i class="fa fa-home" style="font-size: 1.25em;"></i> Home
+                        <i class="fa fa-home" style="font-size: 1.25em;"></i>
                     </a>
                 </div>
                 <div class="post-list">
-                    <!-- Roll Over Beethoven -->
                     <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="#beethoven">Roll Over Beethoven: A Cloth Piano</a>
-                            <p>A portable cloth piano using capacitive cloth and pressure-sensitive gloves. Created a tutorial in C, wrote drivers for the sensors and display, and synthesized different timbres based on playing mode.</p>
-                            <a href="#beethoven" class="btn zoombtn">Read More</a>
-                        </li>
+                        {% for post in site.posts %}
+                            {% if post.project %}
+                            <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                                <a class="zoombtn" href="{{ post.url }}">{{ post.title }}</a>
+                                <p>{{ post.excerpt }}</p>
+                                <a href="{{ post.url }}" class="btn zoombtn">Read More</a>
+                            </li>
+                            {% endif %}
+                        {% endfor %}
                     </ul>
-                    <!-- Enfield Engine -->
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="#enfield">Enfield Engine</a>
-                            <p>A high-performance, multi-threaded game engine crafted in C++, integrating Lua scripting and advanced physics using Box2D and SDL for rendering.</p>
-                            <a href="#enfield" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
-                    <!-- Video CDN -->
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="#cdn">Video CDN and Static Router</a>
-                            <p>Implemented a Video CDN with adaptive bitrate streaming and DNS load balancing in C. Developed WTP protocol over UDP for reliable data transfer.</p>
-                            <a href="#cdn" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
-                    <!-- Neural Networks -->
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="#nn">Neural Networks and Image Processing</a>
-                            <p>Developed convolutional neural networks, generative adversarial networks, and image captioning models using RNN, LSTM, and Transformer networks with spatial attention.</p>
-                            <a href="#nn" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
-                    <!-- Add more projects as needed -->
                 </div>
             </div>
         </div>
