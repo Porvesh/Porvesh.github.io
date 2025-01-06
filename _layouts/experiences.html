@@ -18,7 +18,7 @@
         .experience-container {
             max-width: 1000px;
             display: flex;
-            flex-direction: row-reverse; /* Reversed order */
+             flex-direction: row-reverse; /* Reversed order */
             gap: 20px;
         }
         .company-list {
@@ -42,7 +42,16 @@
         .company-list a:hover {
             text-decoration: underline;
         }
-     
+        .details {
+            flex: 2;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            display: none; /* Hide details initially */
+        }
+        .details.active {
+            display: block; /* Show the active details */
+        }
         .company-title {
             font-size: 1.2rem;
             color: #64ffda;
@@ -76,14 +85,6 @@
     <header class="header">
         <div class="experience-section">
             <h1>Where I've Worked</h1>
-
-            <div class="post-title">
-                <h1>{{ page.title }}</h1>
-                <a class="btn zoombtn" href="{{ site.url }}">
-                    <i class="fa fa-home" style="font-size: 1.25em;"></i>
-                </a>
-            </div>
-            
             <div class="experience-container">
                 <div class="company-list">
                     <ul>
