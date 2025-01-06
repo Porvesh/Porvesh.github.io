@@ -1,5 +1,15 @@
+---
+layout: compress
+title: Experience
+permalink: /experience/
+---
+
 <!DOCTYPE html>
-<html class="no-js">
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+
 <head>
     {% include head.html %}
     <style>
@@ -7,7 +17,20 @@
             font-family: Arial, sans-serif;
             line-height: 1.6;
             color: white;
-            background-color: #0a192f;
+            background-color: #0a192f; /* Desired dark background color */
+        }
+        .home-link {
+            text-align: right;
+            padding: 10px 20px;
+            background-color: rgba(0, 0, 0, 0.5); /* Adds a translucent dark background */
+        }
+        .home-link a {
+            color: #64ffda; /* Matches the theme color */
+            text-decoration: none;
+            font-size: 1.25em;
+        }
+        .home-link a:hover {
+            text-decoration: underline;
         }
         .experience-section {
             display: flex;
@@ -74,14 +97,15 @@
         li {
             margin-bottom: 10px;
         }
-        a {
-            color: #64ffda;
-            text-decoration: underline;
-        }
     </style>
 </head>
 <body>
     {% include nav.html %}
+    <!-- Home Link -->
+    <div class="home-link">
+        <a href="{{ site.url }}"><i class="fa fa-home"></i> Home</a>
+    </div>
+    <!-- Header -->
     <header class="header">
         <div class="experience-section">
             <h1>Where I've Worked</h1>
