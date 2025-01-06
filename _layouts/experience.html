@@ -1,9 +1,3 @@
----
-layout: compress
-title: Experience
-permalink: /experience/
----
-
 <!DOCTYPE html>
 <html class="no-js">
 <head>
@@ -25,7 +19,6 @@ permalink: /experience/
             max-width: 1000px;
             display: flex;
             flex-direction: row;
-            flex-wrap: wrap;
             gap: 20px;
         }
         .company-list {
@@ -34,11 +27,30 @@ permalink: /experience/
             border-left: 2px solid #64ffda;
             padding-left: 20px;
         }
+        .company-list ul {
+            list-style: none;
+            padding: 0;
+        }
+        .company-list li {
+            margin: 10px 0;
+        }
+        .company-list a {
+            color: #64ffda;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .company-list a:hover {
+            text-decoration: underline;
+        }
         .details {
             flex: 2;
             background-color: rgba(255, 255, 255, 0.1);
             padding: 20px;
             border-radius: 10px;
+            display: none; /* Hide details initially */
+        }
+        .details.active {
+            display: block; /* Show the active details */
         }
         .company-title {
             font-size: 1.2rem;
@@ -76,55 +88,63 @@ permalink: /experience/
             <div class="experience-container">
                 <div class="company-list">
                     <ul>
-                        <li><a href="#rtcl">Real-Time Computing Lab</a></li>
-                        <li><a href="#orderlab">OrderLab</a></li>
-                        <li><a href="#northrop">Northrop Grumman</a></li>
-                        <li><a href="#joy">Joy of Coding</a></li>
-                        <li><a href="#dealsplus">DealsPlus</a></li>
-                        <li><a href="#uclid5">UCLID5</a></li>
-                        <li><a href="#dsa">Data Structures Study Group</a></li>
-                        <li><a href="#ross">Ross School of Business</a></li>
+                        <li><a onclick="showDetails('rtcl')">Real-Time Computing Lab</a></li>
+                        <li><a onclick="showDetails('orderlab')">OrderLab</a></li>
+                        <li><a onclick="showDetails('northrop')">Northrop Grumman</a></li>
+                        <li><a onclick="showDetails('joy')">Joy of Coding</a></li>
+                        <li><a onclick="showDetails('dealsplus')">DealsPlus</a></li>
+                        <li><a onclick="showDetails('uclid5')">UCLID5</a></li>
+                        <li><a onclick="showDetails('dsa')">Data Structures Study Group</a></li>
+                        <li><a onclick="showDetails('ross')">Ross School of Business</a></li>
                     </ul>
                 </div>
-                <div class="details">
-                    <div id="rtcl">
-                        <p class="company-title">Real-Time Computing Lab</p>
-                        <p class="role-title">Robotics Research Assistant</p>
-                        <p class="time-period">April 2024 - Present</p>
-                        <ul>
-                            <li>Designed a LiDAR-based obstacle avoidance algorithm using the Follow the Gap method.</li>
-                            <li>Worked on SLAM, localization with a particle filter, and Pure Pursuit algorithm.</li>
-                            <li>Developed scan matching for autonomous localization with fast correspondence search.</li>
-                            <li>Created a safety node with iTTC emergency braking and PID-controlled wall-following.</li>
-                            <li>Raced the car around campus buildings.</li>
-                        </ul>
-                    </div>
-                    <div id="orderlab">
-                        <p class="company-title">OrderLab</p>
-                        <p class="role-title">Distributed Systems Research Assistant</p>
-                        <p class="time-period">May 2024 - Present</p>
-                        <ul>
-                            <li>Contributed to OathKeeper to detect and enforce semantic rules at runtime.</li>
-                            <li>Developed an event tracing system to register, trace, and export trigger events.</li>
-                            <li>Implemented a bytecode manipulation tool using Javassist.</li>
-                        </ul>
-                    </div>
-                    <div id="northrop">
-                        <p class="company-title">Northrop Grumman</p>
-                        <p class="role-title">Software Engineering Intern</p>
-                        <p class="time-period">June 2023 - August 2023</p>
-                        <ul>
-                            <li>Configured DHCP, TFTP, FTP servers, and PXE for manual network booting.</li>
-                            <li>Developed Bash scripts and used Packer for Boot Image Generation automation.</li>
-                            <li>Deployed ISO Images for seamless booting of Linux operating systems.</li>
-                            <li>Explored aircraft in the hangar.</li>
-                        </ul>
-                    </div>
-                    <!-- Add similar blocks for Joy of Coding, DealsPlus, UCLID5, Study Group, and Ross -->
+                <div class="details" id="rtcl">
+                    <p class="company-title">Real-Time Computing Lab</p>
+                    <p class="role-title">Robotics Research Assistant</p>
+                    <p class="time-period">April 2024 - Present</p>
+                    <ul>
+                        <li>Designed a LiDAR-based obstacle avoidance algorithm using the Follow the Gap method.</li>
+                        <li>Worked on SLAM, localization with a particle filter, and Pure Pursuit algorithm.</li>
+                        <li>Developed scan matching for autonomous localization with fast correspondence search.</li>
+                        <li>Created a safety node with iTTC emergency braking and PID-controlled wall-following.</li>
+                        <li>Raced the car around campus buildings.</li>
+                    </ul>
                 </div>
+                <div class="details" id="orderlab">
+                    <p class="company-title">OrderLab</p>
+                    <p class="role-title">Distributed Systems Research Assistant</p>
+                    <p class="time-period">May 2024 - Present</p>
+                    <ul>
+                        <li>Contributed to OathKeeper to detect and enforce semantic rules at runtime.</li>
+                        <li>Developed an event tracing system to register, trace, and export trigger events.</li>
+                        <li>Implemented a bytecode manipulation tool using Javassist.</li>
+                    </ul>
+                </div>
+                <div class="details" id="northrop">
+                    <p class="company-title">Northrop Grumman</p>
+                    <p class="role-title">Software Engineering Intern</p>
+                    <p class="time-period">June 2023 - August 2023</p>
+                    <ul>
+                        <li>Configured DHCP, TFTP, FTP servers, and PXE for manual network booting.</li>
+                        <li>Developed Bash scripts and used Packer for Boot Image Generation automation.</li>
+                        <li>Deployed ISO Images for seamless booting of Linux operating systems.</li>
+                        <li>Explored aircraft in the hangar.</li>
+                    </ul>
+                </div>
+                <!-- Add similar sections for Joy, DealsPlus, UCLID5, Study Group, and Ross -->
             </div>
         </div>
     </header>
     {% include scripts.html %}
+    <script>
+        function showDetails(id) {
+            // Hide all details
+            document.querySelectorAll('.details').forEach(function(detail) {
+                detail.classList.remove('active');
+            });
+            // Show selected details
+            document.getElementById(id).classList.add('active');
+        }
+    </script>
 </body>
 </html>
