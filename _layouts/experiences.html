@@ -9,142 +9,74 @@
             color: white;
             background-color: #0a192f;
         }
-        .experience-section {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+        .timeline-section {
             padding: 50px;
         }
-        .experience-container {
-            max-width: 1000px;
+        .timeline-container {
             display: flex;
             flex-direction: row;
             gap: 20px;
+            max-width: 1200px;
+            margin: auto;
         }
-        .company-list {
+        .timeline {
             flex: 1;
-            min-width: 200px;
             border-left: 2px solid #64ffda;
             padding-left: 20px;
         }
-        .company-list ul {
+        .timeline ul {
             list-style: none;
             padding: 0;
         }
-        .company-list li {
-            margin: 10px 0;
+        .timeline li {
+            margin-bottom: 20px;
         }
-        .company-list a {
+        .timeline li span {
+            color: #8892b0;
+            font-size: 0.9rem;
+            display: block;
+        }
+        .timeline li a {
             color: #64ffda;
             text-decoration: none;
-            cursor: pointer;
         }
-        .company-list a:hover {
+        .timeline li a:hover {
             text-decoration: underline;
         }
-        .details {
-            flex: 2;
-            background-color:rgba(255,255,255,0.9);
-            padding: 20px;
-            border-radius: 10px;
-            display: none; /* Hide details initially */
+        .home-button {
+            margin-bottom: 20px;
         }
-        .details.active {
-            display: block; /* Show the active details */
-        }
-        .company-title {
-            font-size: 1.2rem;
-            color: #64ffda;
-            margin-bottom: 10px;
-        }
-        .role-title {
-            font-size: 1rem;
-            font-weight: bold;
-            color: #ccd6f6;
-        }
-        .time-period {
-            font-size: 0.9rem;
-            color: #8892b0;
-            margin-bottom: 10px;
-        }
-        ul {
-            padding-left: 20px;
-            margin-top: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        a {
-            color: #64ffda;
-            text-decoration: underline;
+        .home-button a {
+            color: white;
+            background-color: #64ffda;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
         }
     </style>
 </head>
 <body>
     {% include nav.html %}
     <header class="header">
-        <div class="experience-section">
+        <div class="timeline-section">
+            <div class="home-button">
+                <a href="{{ site.url }}">Home</a>
+            </div>
             <h1>Where I've Worked</h1>
-            <div class="experience-container">
-                <div class="company-list">
+            <div class="timeline-container">
+                <div class="timeline">
                     <ul>
-                        <li><a onclick="showDetails('rtcl')">Real-Time Computing Lab</a></li>
-                        <li><a onclick="showDetails('orderlab')">OrderLab</a></li>
-                        <li><a onclick="showDetails('northrop')">Northrop Grumman</a></li>
-                        <li><a onclick="showDetails('joy')">Joy of Coding</a></li>
-                        <li><a onclick="showDetails('dealsplus')">DealsPlus</a></li>
-                        <li><a onclick="showDetails('uclid5')">UCLID5</a></li>
-                        <li><a onclick="showDetails('dsa')">Data Structures Study Group</a></li>
-                        <li><a onclick="showDetails('ross')">Ross School of Business</a></li>
+                        {% for post in site.experiences %}
+                        <li>
+                            <span>{{ post.date | date: "%b %Y" }}</span>
+                            <a href="{{ post.url }}">{{ post.title }}</a>
+                        </li>
+                        {% endfor %}
                     </ul>
                 </div>
-                <div class="details" id="rtcl">
-                    <p class="company-title">Real-Time Computing Lab</p>
-                    <p class="role-title">Robotics Research Assistant</p>
-                    <p class="time-period">April 2024 - Present</p>
-                    <ul>
-                        <li>Designed a LiDAR-based obstacle avoidance algorithm using the Follow the Gap method.</li>
-                        <li>Worked on SLAM, localization with a particle filter, and Pure Pursuit algorithm.</li>
-                        <li>Developed scan matching for autonomous localization with fast correspondence search.</li>
-                        <li>Created a safety node with iTTC emergency braking and PID-controlled wall-following.</li>
-                        <li>Raced the car around campus buildings.</li>
-                    </ul>
-                </div>
-                <div class="details" id="orderlab">
-                    <p class="company-title">OrderLab</p>
-                    <p class="role-title">Distributed Systems Research Assistant</p>
-                    <p class="time-period">May 2024 - Present</p>
-                    <ul>
-                        <li>Contributed to OathKeeper to detect and enforce semantic rules at runtime.</li>
-                        <li>Developed an event tracing system to register, trace, and export trigger events.</li>
-                        <li>Implemented a bytecode manipulation tool using Javassist.</li>
-                    </ul>
-                </div>
-                <div class="details" id="northrop">
-                    <p class="company-title">Northrop Grumman</p>
-                    <p class="role-title">Software Engineering Intern</p>
-                    <p class="time-period">June 2023 - August 2023</p>
-                    <ul>
-                        <li>Configured DHCP, TFTP, FTP servers, and PXE for manual network booting.</li>
-                        <li>Developed Bash scripts and used Packer for Boot Image Generation automation.</li>
-                        <li>Deployed ISO Images for seamless booting of Linux operating systems.</li>
-                        <li>Explored aircraft in the hangar.</li>
-                    </ul>
-                </div>
-                <!-- Add similar sections for Joy, DealsPlus, UCLID5, Study Group, and Ross -->
             </div>
         </div>
     </header>
     {% include scripts.html %}
-    <script>
-        function showDetails(id) {
-            // Hide all details
-            document.querySelectorAll('.details').forEach(function(detail) {
-                detail.classList.remove('active');
-            });
-            // Show selected details
-            document.getElementById(id).classList.add('active');
-        }
-    </script>
 </body>
 </html>
