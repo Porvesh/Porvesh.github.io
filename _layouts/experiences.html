@@ -108,12 +108,13 @@
             <div class="experience-container">
                 <div class="company-list">
                     <ul>
-                        {% for experience in site.work %}
+                        {% assign reversed_work = site.work | reverse %}
+                        {% for experience in reversed_work %}
                         <li><a onclick="showDetails('{{ experience.id }}')">{{ experience.title }}</a></li>
                         {% endfor %}
                     </ul>
                 </div>
-                {% for experience in site.work %}
+                {% for experience in reversed_work %}
                 <div class="details" id="{{ experience.id }}">
                     <p class="company-title">{{ experience.title }}</p>
                     <p class="role-title">{{ experience.role }}</p>
