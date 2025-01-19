@@ -47,15 +47,6 @@ body {
 	    display: block !important;
 	}
 }
-.header {
-    background-size: cover; 
-    background-position: center;
-    background-repeat: no-repeat;
-
-    @media (max-aspect-ratio: 1/1) {
-        background-size: contain; 
-    }
-}
 
 
 .flex {
