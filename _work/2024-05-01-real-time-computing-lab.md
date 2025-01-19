@@ -7,8 +7,6 @@ time_period: "April 2024 - Present"
 date: 2024-05-01
 ---
 
-### Real-Time Computing Lab  
-
 - Designed a LiDAR-based obstacle avoidance algorithm using the Follow the Gap method.
 - Worked on SLAM, localization with a particle filter, and Pure Pursuit algorithm.
 - Developed scan matching for autonomous localization with fast correspondence search.
