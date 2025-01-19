@@ -10,6 +10,10 @@
 
 html {
 	@extend %extend1;
+	@media #{$small} {
+	    background-image: none !important;
+		background: $bodycolor;
+	}
 }
 body {
 	@extend %extend1;
