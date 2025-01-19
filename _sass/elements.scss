@@ -118,11 +118,15 @@ img {
     image-rendering: optimizeQuality;
 }
 .img-circle {
-	border-radius: 50%;
-	border: 3px solid $white;
-	height: 150px;
-	width: 150px;
+  border-radius: 50%; /* Creates a circular image */
+  border: 3px solid white; /* Use "white" instead of "$white" unless it's SASS */
+  height: 150px; /* Fixed height */
+  width: 150px; /* Fixed width */
+  object-fit: cover; /* Ensures the image fits the circle without distortion */
+  display: block; /* Ensures proper centering with margin auto */
+  margin: 0 auto; /* Centers the image horizontally */
 }
+
 .author-photo {
     background-color: $white;
 }
