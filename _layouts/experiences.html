@@ -41,6 +41,11 @@
         .company-list a:hover {
             text-decoration: underline;
         }
+        .company-list a.highlight {
+            text-decoration: underline; 
+            font-weight: bold;
+        }
+
         .details {
             flex: 2;
             background-color: rgba(255, 255, 255, 0.7); 
@@ -59,7 +64,7 @@
         .role-title {
             font-size: 1.2rem;
             font-weight: bold;
-            color: #000000; /* Subtle purple */
+            color: #000000; 
         }
         .time-period {
             font-size: 0.9rem;
@@ -92,6 +97,24 @@
             padding: 10px 15px;
             text-decoration: none;
             border-radius: 5px;
+        }
+
+        @media only screen and (max-width: 768px) {
+            .experience-container {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .company-list {
+                border-right: none;
+                border-bottom: 2px solid #1DB954;
+                padding-bottom: 20px;
+            }
+
+            .details {
+                padding: 15px;
+                font-size: 0.9rem;
+            }
         }
     </style>
 </head>
@@ -130,13 +153,17 @@
     {% include scripts.html %}
     <script>
         function showDetails(id) {
-            // Hide all details
-            document.querySelectorAll('.details').forEach(function(detail) {
+            document.querySelectorAll('.details').forEach(function (detail) {
                 detail.classList.remove('active');
             });
-            // Show selected details
+
             document.getElementById(id).classList.add('active');
+            document.querySelectorAll('.company-list a').forEach(function (link) {
+                link.classList.remove('highlight');
+            });
+            document.querySelector(`[onclick="showDetails('${id}')"]`).classList.add('highlight');
         }
+
     </script>
 </body>
 </html>
