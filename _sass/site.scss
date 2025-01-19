@@ -45,6 +45,9 @@ html, body {
 	min-height: 100vh;
 	text-align: left;
 	color: $white;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 	@media #{$small} {
 		display: block !important;
 	}
