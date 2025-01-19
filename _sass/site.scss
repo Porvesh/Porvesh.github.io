@@ -33,11 +33,16 @@ body {
 *::before {
 	box-sizing: border-box;
 }
+html, body {
+    height: 100%; 
+    margin: 0;
+    padding: 0;
+}
 .header {
 	height: 100%;
 	position: relative;
 	width: 100%;
-	min-height: 300px;
+	min-height: 100vh;
 	text-align: left;
 	color: $white;
 	@media #{$small} {
