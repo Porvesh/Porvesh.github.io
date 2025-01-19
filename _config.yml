@@ -1,10 +1,10 @@
 # Site
 title:              Porvesh Balasubramanian
 bio:                'Collect memories, not regrets'
-description:        "Founding Engineer/Partime Cricketer"
+description:        "Fulltime Engineer/Part time Cricketer"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/'
+logo:               'assets/img/me1.jpg'
 # background:        'assets/img/sky1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
