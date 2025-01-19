@@ -51,6 +51,7 @@ html, body {
 	background-attachment: scroll;
 	@media #{$small} {
 		display: block !important;
+		background-color: $bodycolor;
 	}
 	@media only screen and (max-height: 500px) {
 	    display: block !important;
