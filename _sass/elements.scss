@@ -118,14 +118,36 @@ img {
     image-rendering: optimizeQuality;
 }
 .img-circle {
-	border-radius: 50%;
-	border: 3px solid $white;
-	height: 150px;
-	width: 150px;
+  border-radius: 50%;
+  border: 3px solid $white;
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
 }
 .author-photo {
-    background-color: $white;
+  background-color: $white;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  height: auto;
+  width: 150px;
+  max-width: 100%;
+  object-fit: cover;
 }
+
+@media only screen and (max-width: 768px) {
+  .author-photo {
+      width: 100px;
+      height: 100px;
+  }
+
+  h4, p {
+      text-align: center;
+  }
+}
+
 .image-right {
     float: right;
     margin-left: 1em;
