@@ -2,7 +2,7 @@
 layout: experience
 title: "Northrop Grumman"
 date: 2023-06-01
-role: "Software Engineering Intern"
+role: "Networking Software Engineering Intern"
 time_period: "June 2023 - August 2023"
 ---
 

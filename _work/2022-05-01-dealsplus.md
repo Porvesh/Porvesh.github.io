@@ -2,7 +2,7 @@
 layout: experience
 title: "DealsPlus"
 date: 2022-05-01
-role: "Software Engineering Intern"
+role: "Fullstack Software Engineering Intern"
 time_period: "May 2022 - August 2022"
 ---
 

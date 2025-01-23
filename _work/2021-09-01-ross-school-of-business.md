@@ -2,7 +2,7 @@
 layout: experience
 title: "Ross School of Business"
 date: 2021-09-01
-role: "Research Assistant"
+role: "Business Research Assistant"
 time_period: "September 2021 - April 2022"
 ---
 
