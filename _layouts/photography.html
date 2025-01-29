@@ -3,12 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Photography Portfolio - Featuring Animals, Birds, Landscapes, Sunsets and more">
-    <meta name="author" content="Porvesh">
     <title>My Photography Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        /* General Styles */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -35,44 +31,49 @@
             margin-top: 0.5rem;
         }
 
-        /* Album Section */
+        /* Album Grid */
         .album-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
             max-width: 1200px;
             margin: 2rem auto;
             padding: 1rem;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            gap: 1rem;
         }
 
         .album {
-            flex: 1 1 calc(50% - 1rem); /* Two-column layout */
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            position: relative;
             overflow: hidden;
-            padding: 1rem;
-            text-align: center;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+        .album img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .album:hover img {
+            transform: scale(1.1);
         }
 
         .album h2 {
-            font-size: 1.5rem;
-            color: #333;
-            margin-bottom: 0.5rem;
-        }
-
-        .album p {
-            font-size: 1rem;
-            color: #666;
-            margin-bottom: 1rem;
-        }
-
-        .album iframe {
+            position: absolute;
+            bottom: 0;
             width: 100%;
-            height: 300px;
-            border: none;
-            border-radius: 5px;
+            margin: 0;
+            padding: 1rem;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            text-align: center;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .album:hover h2 {
+            opacity: 1;
         }
 
         /* Footer */
@@ -83,110 +84,34 @@
             color: #fff;
             margin-top: 2rem;
         }
-
-        /* Responsive Styles */
-        @media (max-width: 768px) {
-            .album {
-                flex: 1 1 100%; /* Single-column layout */
-            }
-
-            header h1 {
-                font-size: 2rem;
-            }
-
-            header p {
-                font-size: 1rem;
-            }
-
-            .album iframe {
-                height: 250px;
-            }
-        }
-
-        @media (max-width: 480px) {
-            header {
-                padding: 1rem;
-            }
-
-            header h1 {
-                font-size: 1.8rem;
-            }
-
-            header p {
-                font-size: 0.9rem;
-            }
-
-            .album iframe {
-                height: 200px;
-            }
-        }
     </style>
 </head>
 <body>
     <header>
         <h1>My Photography Portfolio</h1>
         <p>Exploring the world through my lens</p>
-        <p>Coming soon, currently updating!</p>
     </header>
 
     <section class="album-section">
-        <!-- Album 1: Into the Wild -->
-        <div class="album">
+        <!-- Example Album -->
+        <div class="album" onclick="location.href='https://example.com/album1';">
+            <img src="https://via.placeholder.com/400x300" alt="Album 1">
             <h2>Into the Wild</h2>
-            <p>Capturing the untamed beauty of wildlife in their natural habitats.</p>
-            <iframe src="<Album Embed Code for Into the Wild>" loading="lazy"></iframe>
         </div>
-    
-        <!-- Album 2: Wings of Wonder -->
-        <div class="album">
+        <div class="album" onclick="location.href='https://example.com/album2';">
+            <img src="https://via.placeholder.com/400x300" alt="Album 2">
             <h2>Wings of Wonder</h2>
-            <p>Showcasing the grace and elegance of birds in flight.</p>
-            <iframe src="<Album Embed Code for Monochrome Moments>" loading="lazy"></iframe>
         </div>
-
-        <!-- Album 3: Monochrome Moments -->
-        <div class="album">
+        <div class="album" onclick="location.href='https://example.com/album3';">
+            <img src="https://via.placeholder.com/400x300" alt="Album 3">
             <h2>Monochrome Moments</h2>
-            <p>Timeless black and white captures that tell a story without color.</p>
-            <iframe src="<Album Embed Code for Monochrome Moments>" loading="lazy"></iframe>
         </div>
-    
-        <!-- Album 4: Architectural Marvels -->
-        <div class="album">
+        <div class="album" onclick="location.href='https://example.com/album4';">
+            <img src="https://via.placeholder.com/400x300" alt="Album 4">
             <h2>Architectural Marvels</h2>
-            <p>Exploring the artistry and elegance of remarkable structures.</p>
-            <iframe src="<Album Embed Code for Architectural Marvels>" loading="lazy"></iframe>
         </div>
-    
-        <!-- Album 5: Earth’s Canvas -->
-        <div class="album">
-            <h2>Earth’s Canvas</h2>
-            <p>Nature's breathtaking scenery captured in all its glory.</p>
-            <iframe src="<Album Embed Code for Earth’s Canvas>" loading="lazy"></iframe>
-        </div>
-    
-        <!-- Album 6: Moments in Time -->
-        <div class="album">
-            <h2>Moments in Time</h2>
-            <p>Unique and unexpected moments frozen in time.</p>
-            <iframe src="<Album Embed Code for Moments in Time>" loading="lazy"></iframe>
-        </div>
-    
-        <!-- Album 7: Starry Nights -->
-        <div class="album">
-            <h2>Starry Nights</h2>
-            <p>Marveling at the beauty and mystery of the night sky.</p>
-            <iframe src="<Album Embed Code for Starry Nights>" loading="lazy"></iframe>
-        </div>
-    
-        <!-- Album 8: Golden Hour -->
-        <div class="album">
-            <h2>Golden Hour</h2>
-            <p>Capturing the magic of sunsets and the tranquil glow of twilight.</p>
-            <iframe src="<Album Embed Code for Golden Hour>" loading="lazy"></iframe>
-        </div>
+        <!-- Add more albums as needed -->
     </section>
-    
 
     <footer>
         <p>&copy; 2025 My Photography Portfolio | Designed by Porvesh</p>
