@@ -7,52 +7,55 @@ layout: compress
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <style>
-    /* Add hover effects for buttons */
+        /* Add hover effects for buttons */
     a.btn {
         display: inline-block;
         text-decoration: none;
         padding: 10px 20px;
         margin: 5px;
         border-radius: 5px;
+        background-color: rgba(0, 0, 0, 0.1); /* Neutral background */
+        color: white; /* Default text color */
         transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
     }
-    
+
     a.btn:hover {
-        background-color: rgba(255, 255, 255, 0.3);
-        color: #00bcd4; /* Add a light blue color for hover */
-        transform: scale(1.05); /* Slightly enlarges the button */
+        background-color: rgba(255, 255, 255, 0.2); /* Subtle color change on hover */
+        color: #00bcd4; /* Light blue text on hover */
+        transform: scale(1.05); /* Slight enlargement for focus */
     }
-    
+
     /* Add hover effect for social media links */
     a.zoombtn {
         transition: transform 0.2s ease, opacity 0.2s ease;
     }
-    
+
     a.zoombtn:hover {
-        transform: rotate(10deg) scale(1.1);
-        opacity: 0.8;
+        transform: scale(1.1); /* Enlarges slightly for emphasis */
+        opacity: 0.8; /* Reduces opacity slightly */
     }
-    
+
     /* Add hover effect for images */
     img.zoombtn {
         transition: transform 0.3s ease;
     }
-    
+
     img.zoombtn:hover {
-        transform: scale(1.1);
+        transform: scale(1.1); /* Subtle zoom-in effect */
     }
-    
+
     /* Add a hover effect for header links */
     .header a {
         color: white;
         text-decoration: none;
         transition: color 0.3s ease;
     }
-    
+
     .header a:hover {
-        color: #ffeb3b; /* Add a yellowish glow effect */
+        color: #ffeb3b; /* Yellowish glow effect */
     }
     </style>
+    
     
 <head>
     <meta name="description" content="Welcome to Porvesh's portfolio! Discover a blend of robotics, systems architecture, hardware design, and software engineering expertise. Explore experiences with Bronco AI, OrderLab, and Northrop Grumman, along with innovative projects like an Advanced RISC-V Processor, Enfield Engine, and robotics motion planning. Dive into the blog for insights on technology, coding, and photography.">
