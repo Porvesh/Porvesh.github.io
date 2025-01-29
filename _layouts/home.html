@@ -11,161 +11,50 @@ layout: compress
     <meta name="author" content="Porvesh">
     {% include head.html %}
     <meta name="google-site-verification" content="m_3sSHVb-wXBbVs8IuhrYkXmfUG86nYHnyGw7xDQkxE" />
-    <style>
-        /* Global Styles */
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f5f5f5;
-            color: #333;
-        }
-
-        h1, h3 {
-            font-family: 'Playfair Display', serif;
-        }
-
-        a {
-            text-decoration: none;
-            color: inherit;
-        }
-
-        .btn {
-            display: inline-block;
-            padding: 0.8rem 1.5rem;
-            margin: 0.5rem;
-            background-color: rgba(255, 255, 255, 0.2);
-            color: white;
-            border: 1px solid white;
-            border-radius: 5px;
-            font-weight: bold;
-            transition: all 0.3s ease;
-        }
-
-        .btn:hover {
-            background-color: white;
-            color: #333;
-            transform: scale(1.05);
-        }
-
-        /* Header */
-        .header {
-            text-align: center;
-            padding: 3rem;
-            background: linear-gradient(135deg, #2c3e50, #4ca1af);
-            color: white;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-
-        .header img {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-        }
-
-        .header h3 {
-            font-size: 2.5rem;
-            margin-top: 1rem;
-        }
-
-        .header p {
-            font-size: 1.2rem;
-            margin-top: 0.5rem;
-            font-weight: 300;
-        }
-
-        .social-links {
-            margin-top: 1.5rem;
-        }
-
-        .social-links a {
-            margin: 0 10px;
-            font-size: 1.5rem;
-            color: white;
-            transition: color 0.3s ease;
-        }
-
-        .social-links a:hover {
-            color: #4ca1af;
-        }
-
-        /* Navigation */
-        .nav-buttons {
-            margin-top: 2rem;
-        }
-
-        .hr-line {
-            border: none;
-            border-top: 1px solid rgba(255, 255, 255, 0.5);
-            margin: 2rem 0;
-        }
-
-        /* Footer */
-        footer {
-            text-align: center;
-            padding: 2rem;
-            background-color: #2c3e50;
-            color: white;
-            margin-top: 2rem;
-        }
-
-        footer a {
-            color: #4ca1af;
-        }
-
-        footer a:hover {
-            text-decoration: underline;
-        }
-
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .header {
-                padding: 2rem 1rem;
-            }
-
-            .header img {
-                width: 120px;
-                height: 120px;
-            }
-
-            .header h3 {
-                font-size: 2rem;
-            }
-
-            .header p {
-                font-size: 1rem;
-            }
-
-            .btn {
-                font-size: 0.9rem;
-                padding: 0.6rem 1rem;
-            }
-        }
-    </style>
 </head>
 <body>
     {% include nav.html %}
     <!-- Header -->
-    <header class="header flex" role="banner">
-        <div class="container animated fadeIn">
-            <a href="{{ site.url }}">
-                <img src="{{ site.logo }}" alt="Porvesh's Profile Picture" class="img-circle zoombtn animated rotateIn">
-            </a>
-            <h3 class="title">
-                <a href="{{ site.url }}">
-                    <p>{{ site.title }}</p>
-                </a>
-            </h3>
-            <p>{{ site.bio }}</p>
-            <hr class="hr-line">
-            {% include social-links.html %}
-            <div class="nav-buttons">
-                <a class="btn zoombtn" href="{{ site.url }}/about">About</a>
-                <a class="btn zoombtn" href="{{ site.url }}/experience">Experience</a>
-                <a class="btn zoombtn" href="{{ site.url }}/projects">Projects</a>
-                <a class="btn zoombtn" href="{{ site.url }}/posts">Blog</a>
-                <a class="btn zoombtn" href="{{ site.url }}/photography">Photography</a>
+    <header class="header flex" role="banner" >
+        <div class="container animated fadeIn" style="background-color:rgba(0,0,0,0);">
+            <div class="row">
+                    <a href="{{ site.url }}">
+                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                    </a>
+                    <h3 class="title">
+                        <a class="zoombtn" href="{{ site.url }}" >
+                            <p style="font-size:1.5rem;font-weight:300;color:white"><b>{{ site.title }}</b></p>
+			            </a>
+                    </h3>
+                    <hr class="hr-line">
+                    <h3 class="title">
+                        <a href="{{ site.url }}">
+                            <p style="font-size:1.2rem;font-weight:300;color:white"><b>{{ site.bio }}</b></p>
+			            </a>
+                    </h3>
+                    {% include social-links.html %}
+                  <hr class="hr-line">
+                  <h3 class="title">
+                        <a class="btn zoombtn"  href="{{ site.url }}/about" style="background-color:rgba(0,0,0,0.1);color:white">
+                            <b>About</b>
+                        </a>
+
+                        <a class="btn zoombtn"  href="{{ site.url }}/experience" style="background-color:rgba(0,0,0,0.1);color:white">
+                        <b>Experience</b>
+                        </a>
+
+                        <a class="btn zoombtn"  href="{{ site.url }}/projects" style="background-color:rgba(0,0,0,0.1);color:white">
+                        <b>Projects</b>
+                        </a>
+
+                        <a class="btn zoombtn"  href="{{ site.url }}/posts" style="background-color:rgba(0,0,0,0.1);color:white">
+                        <b>Blog</b>
+                        </a>
+
+                        <a class="btn zoombtn"  href="{{ site.url }}/photography" style="background-color:rgba(0,0,0,0.1);color:white">
+                            <b>Photography</b>
+                        </a>
+                 </h3>
             </div>
         </div>
     </header>
