@@ -19,18 +19,18 @@ layout: compress
         transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
     }
 
-    a.btn:hover {
+    a.btn:hover, a.social-btn:hover {
         background-color: rgba(255, 255, 255, 0.2); /* Subtle color change on hover */
         color: #00bcd4; /* Light blue text on hover */
         transform: scale(1.05); /* Slight enlargement for focus */
     }
 
     /* Add hover effect for social media links */
-    a.zoombtn {
+    a.zoombtn, a.social-btn:hover   {
         transition: transform 0.2s ease, opacity 0.2s ease;
     }
 
-    a.zoombtn:hover {
+    a.zoombtn:hover, a.social-btn:hover  {
         transform: scale(1.1); /* Enlarges slightly for emphasis */
         opacity: 0.8; /* Reduces opacity slightly */
     }
