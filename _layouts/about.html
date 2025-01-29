@@ -7,9 +7,58 @@
 <head>
     <meta name="description" content="About me - Work, Bronco AI, Robotics, Systems, Hardware, Architecture, Cricket, Photography">
     <meta name="author" content="Porvesh">
-</head>
     {% include head.html %}
+    <style>
+        /* General styling */
+        body {
+            font-size: 18px; /* Increased font size for better readability */
+            line-height: 1.6;
+        }
+
+        h1 {
+            font-size: 2.5rem; /* Larger heading for prominence */
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 20px; /* Adjusted padding for buttons */
+            margin: 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease, transform 0.2s ease, color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: rgba(255, 255, 255, 0.2); /* Hover effect with transparency */
+            transform: scale(1.1); /* Enlarges button slightly */
+            color: #00bcd4; /* Light blue hover color */
+        }
+
+        /* Styling for hover links */
+        a {
+            color: rgb(0, 0, 0);
+            text-decoration: underline;
+            transition: color 0.3s ease, text-decoration 0.3s ease;
+        }
+
+        a:hover {
+            color: #00bcd4; /* Light blue color on hover */
+            text-decoration: none; /* Removes underline on hover */
+        }
+
+        /* Container adjustments */
+        .wrapper {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .wow {
+            padding: 25px; /* Increased padding for better spacing */
+            font-size: 1.2rem; /* Larger font size for content */
+        }
+    </style>
 </head>
+
 <body>
     {% include nav.html %}
     <!-- Header -->
@@ -19,17 +68,17 @@
                 <div class="post-title">
                     <h1 style="color:white;">About Me</h1>
                     <a class="btn zoombtn" href="{{ site.url }}" style="background-color:rgba(0,0,0,0);">
-                        <i class="fa fa-home" style="font-size: 1.25em;color:white;"></i>
+                        <i class="fa fa-home" style="font-size: 1.5em; color:white;"></i>
                     </a>
                 </div>
-                <div class="wow fadeInLeft" data-wow-duration="1.5s" style="background-color:rgba(255,255,255,0.7); padding: 20px; border-radius: 10px;">
-                    <p>Hello! I'm Porvesh Balasubramanian, currently a Founding Engineer at <a href="https://www.bronco.ai/" style="text-decoration: underline; color: rgb(0, 0, 0);">Bronco AI</a>. I graduated from the University of Michigan, where I studied Computer Science.</p>
+                <div class="wow fadeInLeft" data-wow-duration="1.5s" style="background-color:rgba(255,255,255,0.7); padding: 25px; border-radius: 10px;">
+                    <p>Hello! I'm Porvesh Balasubramanian, currently a Founding Engineer at <a href="https://www.bronco.ai/">Bronco AI</a>. I graduated from the University of Michigan, where I studied Computer Science.</p>
                     
-                    <p>During my time at Michigan, I pursued my passion for systems, hardware design, and robotics and developed a love for problem-solving and creating innovative solutions. I’ve done research and worked in a few exciting <a href="https://porvesh.github.io/experience/" style="text-decoration: underline; color: rgb(0, 0, 0);">places</a>. Outside of work, I'm an avid photographer—check out some of my photography <a href="https://porvesh.github.io//photography/" style="text-decoration: underline; color: rgb(0, 0, 0);">here</a>.</p>
+                    <p>During my time at Michigan, I pursued my passion for systems, hardware design, and robotics and developed a love for problem-solving and creating innovative solutions. I’ve done research and worked in a few exciting <a href="https://porvesh.github.io/experience/">places</a>. Outside of work, I'm an avid photographer—check out some of my photography <a href="https://porvesh.github.io//photography/">here</a>.</p>
                     
                     <p>In addition to my technical pursuits, I have a deep passion for sports, with a particular fondness for cricket and tennis. Rafael Nadal and Sachin Tendulkar are sports heroes of mine. I used to play Division 1 cricket in the Michigan Cricket League, and cricket remains a sport close to my heart. Currently, I'm trying to find cricket teams in Bay to join!</p>
                     
-                    <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/porvesh-balasubramanian" style="text-decoration: underline; color: rgb(0, 0, 0);">LinkedIn</a> or reach out via <a href="mailto:porvesh@example.com" style="text-decoration: underline; color: rgb(0, 0, 0);">Email</a>. I'm always excited to exchange ideas or chat about tech, sports, and more!</p>
+                    <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/porvesh-balasubramanian">LinkedIn</a> or reach out via <a href="mailto:porvesh@example.com">Email</a>. I'm always excited to exchange ideas or chat about tech, sports, and more!</p>
                 </div>                
             </div>
         </div>
