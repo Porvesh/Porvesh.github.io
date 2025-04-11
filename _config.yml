@@ -35,7 +35,6 @@ collections:
     output: true
   projects:
     output: true
-    permalink: /projects/:path/
 
 # Social
 # if you don't have any of social below, comment the line.
