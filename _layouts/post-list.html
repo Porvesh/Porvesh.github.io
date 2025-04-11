@@ -45,21 +45,31 @@
 </head>
 <body>
     {% include nav.html %}
-    <div class="blog-container">
-        <h1>Blog</h1>
-        <ul>
-            {% for post in site.posts reversed %}
-            <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                <a class="zoombtn" href="{{ post.url }}">{{ post.title }}</a>
-                <p>{{ post.excerpt }}</p>
-                <a href="{{ post.url }}" class="btn zoombtn">Read More</a>
-            </li>
-            {% endfor %}
-        </ul>
-        <a class="btn zoombtn" href="{{ site.url }}">
-            <i class="fa fa-home" style="font-size: 1.25em;"></i>
-        </a>
-    </div>
+    <!-- Header -->
+    <header class="header" role="banner">
+
+        <div class="wrapper animated fadeIn" style="background-color:rgba(0,0,0,0);" style="background-color:rgba(255,255,255,0.7); padding: 20px; border-radius: 10px;">
+            <div class="content">
+                <div class="post-title">
+                    <h1>{{ page.title }}</h1>
+                    <a class="btn zoombtn" href="{{ site.url }}">
+                        <i class="fa fa-home" style="font-size: 1.25em;"></i>
+                    </a>
+                </div>
+                <div class="post-list">
+                    <ul>
+                        {% for post in site.posts reversed %}
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ post.url }}">{{ post.title }}</a>
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ post.url }}" class="btn zoombtn">Read More</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
     {% include scripts.html %}
     <script src="{{ site.url }}/assets/js/wow.min.js"></script>
     <script type="text/javascript">(new WOW).init();</script>
