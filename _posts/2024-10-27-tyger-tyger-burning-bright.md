@@ -8,7 +8,7 @@ tags: ["Shimla", "Tiger", "Nature", "Photography", "Poem"]
 ---
 This title, is a tribute to show mentalist, and calls to the poem "The Tyger" by William Blake.
 
-This poem reflects on a trip to Shimla and a photo taken there of a tiger. Here is the photo: https://www.flickr.com/photos/202138159@N05/54285908195/in/album-72177720323394178.
+This poem reflects on a trip to Shimla and a photo taken there of a tiger. Here is the photo: [Flickr Photo](https://www.flickr.com/photos/202138159@N05/54285908195/in/album-72177720323394178).
 
 See more of my photography at [my photography website](/photography/)
 
