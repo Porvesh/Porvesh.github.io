@@ -47,7 +47,15 @@
     {% include nav.html %}
     <div class="blog-container">
         <h1>Blog</h1>
-        <p>Coming Soon</p>
+        <ul>
+            {% for post in site.posts %}
+            <li>
+                <a class="zoombtn" href="{{ post.url }}">{{ post.title }}</a>
+                <p>{{ post.excerpt }}</p>
+                <a href="{{ post.url }}" class="btn zoombtn">Read More</a>
+            </li>
+            {% endfor %}
+        </ul>
         <a class="btn zoombtn" href="{{ site.url }}">
             <i class="fa fa-home" style="font-size: 1.25em;"></i>
         </a>

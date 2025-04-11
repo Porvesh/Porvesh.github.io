@@ -7,7 +7,9 @@ excerpt: A poem about the deeper meaning of a tiger photo taken in shimla.
 tags: ["Shimla", "Tiger", "Nature", "Photography", "Poem"]
 ---
 This title, is a tribute to show mentalist, and calls to the poem "The Tyger" by William Blake.
+
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/202138159@N05/54285908195/in/album-72177720323394178" title="tiger"><img src="https://live.staticflickr.com/65535/54285908195_5836028084_z.jpg" width="640" height="480" alt="tiger"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 This poem reflects on a trip to Shimla and a photo taken there of a tiger. Here is the photo: https://www.flickr.com/photos/202138159@N05/54285908195/in/album-72177720323394178.
 See more of my photography at [my photography website](/photography/)<br><br>I took this photo of a tiger on my family trip to Shimla at the Himalayan Zoo. While all the others where trying to get a clear shot, my shot was blurry, making the cage in focus and the tiger a blur. This made me reflect on the true meaning of why I took that photo.
 
