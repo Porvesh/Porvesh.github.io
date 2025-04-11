@@ -61,12 +61,12 @@ layout: compress
                 </div>
                 <div class="post-list">
                     <ul>
-                        {% for project in site.projects %}
-                            <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                                <a class="zoombtn" href="{{ project.url }}">{{ project.title }}</a>
-                                <p>{{ project.excerpt }}</p>
-                                <a href="{{ project.url }}" class="btn zoombtn">Read More</a>
-                            </li>
+                        {% for project in site.projects reversed %}
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a class="zoombtn" href="{{ project.url }}">{{ project.title }}</a>
+                            <p>{{ project.excerpt }}</p>
+                            <a href="{{ project.url }}" class="btn zoombtn">Read More</a>
+                        </li>
                         {% endfor %}
                     </ul>
                 </div>
