@@ -4,7 +4,7 @@ title: "Gap year"
 date: 2021-08-10 00:00:00 -0400
 comments: true
 excerpt: A summary of the events and experiences of the year 2020.
-tags: ["2020", "Gap Year Year in Review", "Summary"]
+tags: ["2020", "Gap Year, "Summary"]
 ---
 
 2020 was a year like no other. COVID hit, exams got cancelled, entrance exams postponed, colleges closed—everything closed. It’s the year that transformed my life the most. Here’s a look back at the moments that defined it:

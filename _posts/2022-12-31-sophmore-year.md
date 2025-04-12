@@ -4,7 +4,7 @@ title: "Freshman Year"
 date: 2022-12-31 00:00:00 -0400
 comments: true
 excerpt: A summary of the events and experiences of the year 2022.
-tags: ["2022", "Freshman Year in Review", "Summary"]
+tags: ["2022", "Freshman Year", "Summary"]
 ---
 
 2022—well. My first year in America. Freshman year of college. Life moved faster than I ever imagined it could... and I had to catch up.
