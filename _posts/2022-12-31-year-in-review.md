@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 Year in Review"
+title: "Freshman Year"
 date: 2022-12-31 00:00:00 -0400
 comments: true
 excerpt: A summary of the events and experiences of the year 2022.
@@ -65,7 +65,7 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
 - **The Boys’ Goa Trip (Finally):**  
   It finally left the group chat. Legend—wait for it—*ary*. That’s all I’ll say.
 
----
+-- 
 
 - **Quotes That Hit Different This Year:**  
     “True friends are never apart, maybe in distance but never in heart.” — *Helen Keller*  

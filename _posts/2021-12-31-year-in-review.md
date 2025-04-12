@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020 - 2021 Year in Review"
+title: "Gap year"
 date: 2021-08-10 00:00:00 -0400
 comments: true
 excerpt: A summary of the events and experiences of the year 2020.
