@@ -26,7 +26,6 @@ tags: ["2020", "Gap Year Year in Review", "Summary"]
   Got a Lenovo Legion. Clocked 1000+ hours of CS:GO, made some of my closest friends, sat through Zoom classes, and picked up a few new skills.  
   *Red Dead Redemption 2* still holds the crown.
 
-
 - **Beginning of my Tech Bro Era**  
   That laptop sparked my tech journey. Did the classic [CS50](https://cs50.harvard.edu/) and started [Andrew Ng’s ML course](https://www.coursera.org/learn/machine-learning). Typical.
 
