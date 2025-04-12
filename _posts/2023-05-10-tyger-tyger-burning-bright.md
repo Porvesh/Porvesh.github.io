@@ -2,7 +2,6 @@
 layout: post
 title: "Tyger Tyger, burning bright"
 date: 2023-05-10 00:00:00 -0400
-comments: true
 excerpt: A poem about the deeper meaning of a tiger photo taken in shimla.
 tags: ["Shimla", "Tiger", "Nature", "Photography", "Poem"]
 ---
