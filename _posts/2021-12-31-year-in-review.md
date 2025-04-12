@@ -63,9 +63,8 @@ tags: ["2020", "Year in Review", "Summary"]
   Had to say goodbye to my Royal Enfield before leaving. My first heartbreak. (Surely the last too..)
 
 - **Quotes That Hit Different This Year:**  
-  > “You will be shocked, kids, when you discover how easy it is in life to part ways with people forever.” – *Ted Mosby*  
-  > “That’s the funny thing about old friends… you can’t make old friends.” – *Robin Scherbatsky*  
-  > “Sometimes things have to fall apart to make way for better things.” – *Ted Mosby*
+  “You will be shocked, kids, when you discover how easy it is in life to part ways with people forever.” – *Ted Mosby*  
+  “Sometimes things have to fall apart to make way for better things.” – *Ted Mosby*
 
   Maybe because this was the show I was watching. Maybe because it just fit.
 

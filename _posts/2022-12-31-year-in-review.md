@@ -67,6 +67,11 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
 
 ---
 
+- **Quotes That Hit Different This Year:**  
+    “True friends are never apart, maybe in distance but never in heart.” — *Helen Keller*  
+    “Sometimes you will never know the value of a moment until it becomes a memory.” — *Dr. Seuss*  
+    “Keep some room in your heart for the unimaginable.” — *Mary Oliver*
+
 ### Looking Back
 
 2022 taught me that growth is uncomfortable, and comfort is overrated. That figuring things out is messy, lonely, and unpredictable—but also kind of beautiful.
