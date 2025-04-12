@@ -15,7 +15,7 @@ tags: ["2020", "Year in Review", "Summary"]
   My last board exam got cancelled. That was the unofficial end of school. I was an adult (or at least that's what the government says) and heading to college.
 
 - **Part-Time at Namma Ooru Foundation:**  
-  Worked part-time with [Namma Ooru Foundation](https://nammaoorufoundation.org) where I made posters and picked up skills in Adobe tools.  
+  Worked part-time with [Namma Ooru Foundation](https://nammaooru.org/) where I made posters and picked up skills in Adobe tools.  
   Contributed to sustainability initiatives across the city.
 
 - **My First Bike:**  
@@ -23,7 +23,9 @@ tags: ["2020", "Year in Review", "Summary"]
   Never named her. Regret. She deserved one.
 
 - **My First Laptop:**  
-  Got a Lenovo Legion—my gateway to a whole new world. Sure, I played 1000+ hours of CS:GO, met people who became some of my closest friends. *Red Dead Redemption 2* is still my all-time favorite.
+  Got a Lenovo Legion. Clocked 1000+ hours of CS:GO, made some of my closest friends, sat through Zoom classes, and picked up a few new skills.  
+  *Red Dead Redemption 2* still holds the crown.
+
 
 - **Beginning of my Tech Bro Era**  
   That laptop sparked my tech journey. Did the classic [CS50](https://cs50.harvard.edu/) and started [Andrew Ng’s ML course](https://www.coursera.org/learn/machine-learning). Typical.
@@ -75,6 +77,6 @@ tags: ["2020", "Year in Review", "Summary"]
 
 Not everything went to plan. But maybe that’s what made it special. 
 
-Here’s to 2021 and beyond.
+Here’s to Freshman year.
 
 Peace.
