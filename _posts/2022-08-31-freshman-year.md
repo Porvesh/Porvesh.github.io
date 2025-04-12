@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Freshman Year"
-date: 2022-12-31 00:00:00 -0400
+date: 2022-08-31 00:00:00 -0400
 comments: true
 excerpt: A summary of the events and experiences of the year 2022.
 tags: ["2022", "Freshman Year", "Summary"]
