@@ -14,6 +14,15 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
 
 ### Highlights of the Year
 
+- **California:**  
+  California was great — the first city I visited in the US.  
+  Saw the pier, saw the Golden Gate Bridge.  
+  Drove on the wrong side of the road (once).  
+  Seven-lane highways scared me.  
+  Learned what Costco was. Got lost in there for a while.  
+  Started tipping.  
+  Realized America was expensive. California? Even more so.
+
 - **Moved into College:**  
    Packed my bags, flew across the world, and moved into the dorms. America was... different from what I expected. Still is.
    Salads and pizza became breakfast. Sometimes dinner. Occasionally both.
@@ -59,6 +68,7 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
 
 - **Trip to Kashmir:**  
    Absolutely stunning. Like walking through a postcard.  
+   The Himalayas were... the Himalayas. It was like walking through a wallpaper. 
    Also saw a very different side of India—one shaped by conflict. Felt privileged, and grateful for those who protect us.
 
 - **The Boys' Goa Trip (Finally):**  
