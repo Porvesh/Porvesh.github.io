@@ -2,7 +2,7 @@
 layout: post
 title: "Junior Year"
 date: 2024-08-31 00:00:00 -0400
-excerpt: "A year of growth, deeper connections, and discovering what truly matters as life at Michigan gets more real."
+excerpt: "Life got real."
 tags: ["2024", "Junior Year", "Summary"]
 ---
 
