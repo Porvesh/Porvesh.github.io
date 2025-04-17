@@ -16,11 +16,9 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
 
 - **California:**  
   California was great — the first city I visited in the US.  
-  Saw the pier, saw the Golden Gate Bridge.  
-  Drove on the wrong side of the road (once).  
+  Saw the Pacific, crossed the Golden Gate Bridge, and accidentally drove on the wrong side of the road (just once).
   Seven-lane highways scared me.  
   Learned what Costco was. Got lost in there for a while.  
-  Started tipping.  
   Realized America was expensive. California? Even more so.
 
 - **Moved into College:**  
