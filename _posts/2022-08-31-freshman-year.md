@@ -56,8 +56,11 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
    Spent my first Christmas in America. Traveled to San Francisco. Almost died.. 
 
 - **Freshman Year Flew By:**  
-   Missed the filter coffee, the curd rice, and the dosas more than I expected. Can't wait to go back home.  
-   Spent the summer doing research at [Adept Lab](https://porvesh.github.io/experience/)—my first real dive into academic work.
+  Missed the filter coffee, the curd rice, and the dosas more than I expected—can't wait to go back home.  
+  Spent the summer doing research at [Adept Lab](https://porvesh.github.io/experience/), my first real dive into academic work.  
+  Taught Python to high schoolers at the [Joy of Coding](https://joyofcoding.eecs.umich.edu/) program—my first experience teaching, and I absolutely loved it.   
+  Worked part-time at [DealsPlus](https://porvesh.github.io/experience/), my initial journey into professional full-stack development.
+
 
 ---
 
