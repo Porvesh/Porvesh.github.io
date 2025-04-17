@@ -2,7 +2,7 @@
 layout: post
 title: "Freshman Year"
 date: 2022-08-31 00:00:00 -0400
-excerpt: A summary of the events and experiences of the year 2022.
+excerpt: My first year at Michigan.
 tags: ["2022", "Freshman Year", "Summary"]
 ---
 
