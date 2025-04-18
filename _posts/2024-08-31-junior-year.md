@@ -6,7 +6,6 @@ excerpt: Chaos isn’t a pit—it’s a ladder.
 tags: ["2024", "Junior Year", "Summary"]
 ---
 
-
 2023. The year everything got a little more real.
 
 There’s always that one year in college where things stop being light and breezy. Where you're constantly swamped, juggling five things at once, running on caffeine and vibes.  
@@ -24,8 +23,8 @@ Junior year was *that* year for me.
 	Built a [**cloth piano**](https://porvesh.github.io/projects/2024-04-05-roll-roll-over-beethoven/)—relearned how to play the piano, this time on fabric. Beethoven would be confused, but maybe impressed.  
 	Built a [**C++ multithreaded game engine**](https://porvesh.github.io/projects/2024-05-05-enfield-engine/)—and played games for *testing purposes*.  
 	Tried my hand at a few hackathons—learned a lot, built some cool stuff, and lived on caffeine.  
-	Most of my memories from junior year involve bruises from taekwondo, passing out in random libraries, and taste-testing every flavor of Monster and Red Bull like it was a side quest.  
-	Also got my heart broken—again. India collapsing in the World Cup final. On home soil. Classic.
+	Most of my memories from junior year involve **bruises** from taekwondo, passing out in random libraries, and taste-testing every flavor of Monster and Red Bull like it was a side quest.  
+	Also got my heart broken—again. India **collapsing** in the World Cup final. On home soil. Classic.
 
 - **A Few Memorable Events**  
 	**Michigan Football** became national champions! We beat Ohio State *again*—of course. I couldn't make it to many games through all the chaos, but I did get to experience the historic **Victors' Walk** after we won it all. **GO BLUE**.  
@@ -44,8 +43,7 @@ Junior year was *that* year for me.
 	Went to **Ohio** twice. Saw **Lake Erie**, a couple of parks, and played some mini golf.  
 	Cooked **every single meal** for 3 months and went to the **gym every day**. Peak college achievement, honestly.  
 	Played **God of War: Ragnarök**—one of the best game endings I've ever experienced.  
-	Finished **Ghost of Tsushima**—incredible swordplay, smooth combat, and hands down the most beautiful game I've ever played.  
-	Now I kinda want to go to Japan.
+	Finished **Ghost of Tsushima**—incredible swordplay, smooth combat, and hands down the most beautiful game I've ever played. Now I kinda want to go to Japan.
 
 - **Back to India**  
 	Realized it might be my last trip to India for a while—a tough pill to swallow. So I made the most of it: hit all my favorite food spots, overdosed on filter coffee, ate way too much pani puri, and checked off everything I wanted to do.  
