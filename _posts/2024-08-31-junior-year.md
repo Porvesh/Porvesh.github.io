@@ -6,7 +6,6 @@ excerpt: Chaos isn’t a pit—it’s a ladder.
 tags: ["2024", "Junior Year", "Summary"]
 ---
 
-### Junior Year — Chaos Isn’t a Pit, It’s a Ladder
 
 2023. The year everything got a little more real.
 
@@ -16,7 +15,8 @@ Junior year was *that* year for me.
 ---
 
 ### Highlights of the Year
-**Campus Life**  
+
+- **Campus Life**  
 	Joined the **Michigan Taekwondo Team**. I've done karate most of my life, so this felt like a natural continuation—until I started getting kicked in the face. Regularly.  
 	Played for the **Michigan Cricket Team**, which finally made the jump from tennis ball to leather ball.  
 	Joined **MRacing** and worked on autonomous control systems—my first real dive into applied robotics. Loved it.  
@@ -27,19 +27,19 @@ Junior year was *that* year for me.
 	Most of my memories from junior year involve bruises from taekwondo, passing out in random libraries, and taste-testing every flavor of Monster and Red Bull like it was a side quest.  
 	Also got my heart broken—again. India collapsing in the World Cup final. On home soil. Classic.
 
-**A Few Memorable Events**  
+- **A Few Memorable Events**  
 	**Michigan Football** became national champions! We beat Ohio State *again*—of course. I couldn't make it to many games through all the chaos, but I did get to experience the historic **Victors' Walk** after we won it all. **GO BLUE**.  
 	Dressed up as **Rick from *Rick and Morty*** for Halloween.  
 	Played in multiple **cricket tournaments**, won **Man of the Match** awards, and helped Michigan win the **Midwest Championship**!  
 	Watched the **solar eclipse**—a true bucket-list moment.
 
-**Spring Break in Costa Rica**  
+- **Spring Break in Costa Rica**  
 	More like an epic road trip.  
 	Drove through **mountains**, wandered through **rainforests**, chilled at stunning **beaches**.  
 	Drove for over 5 hours a day—tiring, but totally worth it.  
 	Got lost in the misty mountain. No signal, no visibility, no clue where we were—somehow made it out alive. Classic.
 
-**Summer in Ann Arbor**  
+- **Summer in Ann Arbor**  
 	Worked in two [**research labs**](https://porvesh.github.io/experience/) doing robotics—built a racecar in one, explored distributed systems in the other.  
 	Went to **Ohio** twice. Saw **Lake Erie**, a couple of parks, and played some mini golf.  
 	Cooked **every single meal** for 3 months and went to the **gym every day**. Peak college achievement, honestly.  
@@ -47,13 +47,13 @@ Junior year was *that* year for me.
 	Finished **Ghost of Tsushima**—incredible swordplay, smooth combat, and hands down the most beautiful game I've ever played.  
 	Now I kinda want to go to Japan.
 
-**Back to India**  
+- **Back to India**  
 	Realized it might be my last trip to India for a while—a tough pill to swallow. So I made the most of it: hit all my favorite food spots, overdosed on filter coffee, ate way too much pani puri, and checked off everything I wanted to do.  
 	Took weekend trips with friends—one to **Mysore**, another to **Bangalore**.  
 	Spent real quality time with friends and family. It felt like a full-circle moment—from my gap year to now. Same places, same people, but very different lives. School felt like so long ago.  
 	Danced at a wedding. Didn't fall. Peak performance.
 
-**Quotes That Hit Different This Year**  
+- **Quotes That Hit Different This Year**  
 	"We do not learn from experience… we learn from reflecting on experience." — *John Dewey*  
 	"Enjoy the little things, for one day you may look back and realize they were the big things." — *Robert Brault*  
 	"Sometimes, the most productive thing you can do is rest." — *Dalai Lama*

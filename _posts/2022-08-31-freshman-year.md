@@ -36,7 +36,7 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
   I always thought getting into college was the hard part. Turns out, *being* in college is harder. More competitive. More overwhelming. A tough, humbling realization.
 
 - **Campus Life**  
-   Picked up tennis again—fell in love with it all over. Joined the Michigan Cricket Club.  
+   Picked up tennis again—fell in love with it all over. Joined the Michigan Cricket Club.    
    Got involved in campus life—joined a few clubs, explored different interests, and even did research at the Ross School of Business. 
 
 - **ENGR 101, EECS 203:**  

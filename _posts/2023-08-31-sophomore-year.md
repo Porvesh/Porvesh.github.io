@@ -6,13 +6,11 @@ excerpt: Sophomore year was a rollercoaster—academically, socially, and everyt
 tags: ["2023", "Year in Review", "College", "Sophomore Year"]
 ---
 
-### Sophomore Year Was a Rollercoaster
-
 Sophomore year was a rollercoaster—academically, socially, and everything in between.
 
 Freshman year felt like a breeze—maybe a bit *too* breezy. Honestly, wish India had AP classes. Could’ve saved a year of doing easy courses. But looking back, maybe I needed that space—to reflect, understand the system here, make friends, and figure out the country.
 
-Had a solid friend group by now. Went out more, socialized, and even dabbled in the social sciences—did a bit of sociology and economics. 
+Had a solid friend group by now. Went out more, socialized, and dabbled in the social sciences—did a bit of sociology and economics. 
 
 ---
 
@@ -26,16 +24,16 @@ Had a solid friend group by now. Went out more, socialized, and even dabbled in 
 
 - **The Chicago Weekend**  
   Took a weekend trip to Chicago for an **Alan Walker concert**.  
-  Walked the riverwalk, saw the Bean—turns out reflections of tired college students aren’t that exciting—and got bullied by the wind.
+  Walked the riverwalk, saw the Bean—turns out reflections of tired college students aren’t that exciting—and got bullied by the wind.  
   Tried deep dish pizza. It was... fine.  
   Cool city though — good mix of skyline, water, and chaos.
 
 - **The Winter**  
-  First *white* Christmas. Looked magical. Felt... cold and kinda lonely.	
-  Walked a mile along the Huron River — quiet, frozen, peaceful.	
-  Ann Arbor basically turned into a ghost town. First time I walked across campus and saw *nobody*.	
-  Visited Detroit. Safe to say it lived up to the reputation — not in a good way.	
-  Finished playing *God of War* - absolutely worth every second.	
+  First *white* Christmas. Looked magical. Felt... cold and kinda lonely.   
+  Walked a mile along the Huron River — quiet, frozen, peaceful.    
+  Ann Arbor basically turned into a ghost town. First time I walked across campus and saw *nobody*.   
+  Visited Detroit. Safe to say it lived up to the reputation — not in a good way.   
+  Finished playing *God of War* - absolutely worth every second.    
 
 - **A Shift in Focus**  
   Winter semester changed everything. 
