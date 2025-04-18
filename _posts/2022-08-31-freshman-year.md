@@ -87,6 +87,6 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
 
 Some days I felt lost. Some days I felt alive. 
 
-Here's to Sophmore year. 
+Here's to Sophomore year. 
 
 Peace.

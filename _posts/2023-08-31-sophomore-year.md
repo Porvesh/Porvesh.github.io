@@ -38,8 +38,10 @@ Had a solid friend group by now. Went out more, socialized, and even dabbled in 
   - Finished playing *God of War* - absolutely worth every second.
 
 - **A Shift in Focus**  
-  Winter semester changed everything.  
-  Took **Intro to Computer Architecture** and a few **robotics courses** — and just like that, I found my passion. Hardware. Systems. Robotics. That was it.
+  Winter semester changed everything. 
+  I took **Intro to Computer Architecture** and a few [**robotics courses**](https://porvesh.github.io/projects/2024-03-04-robotics/)—and just like that, I found my passion.  
+  **Hardware. Systems. Robotics.** That was it. I was hooked.
+
 
 - **Spring Break in Puerto Rico**  
   - Old San Juan was *immaculate* —  bright walls, cobblestone streets, piña coladas that were way too smooth.  
