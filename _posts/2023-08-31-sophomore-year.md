@@ -19,10 +19,10 @@ Had a solid friend group by now. Went out more, socialized, and even dabbled in 
 ### Highlights of the Year
 
 - **Campus Life**  
-  - Went to a bunch of football games (beat Ohio State *again*, of course).  
-  - Caught some ice hockey and basketball games too—college sports really are a whole different world.  
-  - Played cricket on the Diag, wore a **veshti** for Diwali, dressed up for Halloween.  
-  - Still lived in the dorms. Still ate pizza and salad more times than I should admit.
+  Went to a bunch of football games (beat Ohio State *again*, of course).   
+  Caught some ice hockey and basketball games too—college sports really are a whole different world.  
+  Played cricket on the Diag, wore a **veshti** for Diwali, dressed up for Halloween.   
+  Still lived in the dorms. Still ate pizza and salad more times than I should admit.   
 
 - **The Chicago Weekend**  
   Took a weekend trip to Chicago for an **Alan Walker concert**.  
@@ -31,11 +31,11 @@ Had a solid friend group by now. Went out more, socialized, and even dabbled in 
   Cool city though — good mix of skyline, water, and chaos.
 
 - **The Winter**  
-  - First *white* Christmas. Looked magical. Felt... cold and kinda lonely.  
-  - Walked a mile along the Huron River — quiet, frozen, peaceful.  
-  - Ann Arbor basically turned into a ghost town. First time I walked across campus and saw *nobody*.  
-  - Visited Detroit. Safe to say it lived up to the reputation — not in a good way.  
-  - Finished playing *God of War* - absolutely worth every second.
+  First *white* Christmas. Looked magical. Felt... cold and kinda lonely.	
+  Walked a mile along the Huron River — quiet, frozen, peaceful.	
+  Ann Arbor basically turned into a ghost town. First time I walked across campus and saw *nobody*.	
+  Visited Detroit. Safe to say it lived up to the reputation — not in a good way.	
+  Finished playing *God of War* - absolutely worth every second.	
 
 - **A Shift in Focus**  
   Winter semester changed everything. 
@@ -44,14 +44,14 @@ Had a solid friend group by now. Went out more, socialized, and even dabbled in 
 
 
 - **Spring Break in Puerto Rico**  
-  - Old San Juan was *immaculate* —  bright walls, cobblestone streets, piña coladas that were way too smooth.  
-  - Spent half the time in the water, the beaches were stunning.  
-  - Discovered a deep, possibly lifelong love for passion fruit everything.
+  Old San Juan was *immaculate* —  bright walls, cobblestone streets, piña coladas that were way too smooth.  
+  Spent half the time in the water, the beaches were stunning.  
+  Discovered a deep, possibly lifelong love for passion fruit everything.   
 
 - **New Hobby: Piano**  
   Took **Piano 101**.  
   Learned a couple of songs — check out [this clip of me playing the *Top Gun* theme](https://youtu.be/dnxAyv8z87M?si=RPjoXYLZhABqiSCg).  
-  Felt like I unlocked a whole new part of my brain.
+  Felt like I unlocked a whole new part of my brain.  
 
 - **Back to India**  
   The beach, the coffee, the dosas... always feels like home.  

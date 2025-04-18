@@ -29,29 +29,29 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
   Went to my first football game at *The Big House*. Tried my best to understand the game. The vibes were immaculate.
   GO BLUE
 
-- **College**
+- **College**   
   Tried to make friends. Tried to find my people. Tried to find things that felt like "me." Some days I did. Some days I didn't. Still trying.
 
 - **The Realization:**  
   I always thought getting into college was the hard part. Turns out, *being* in college is harder. More competitive. More overwhelming. A tough, humbling realization.
 
 - **Campus Life**  
-   Picked up tennis again—fell in love with it all over. Joined the Michigan Cricket Club.
+   Picked up tennis again—fell in love with it all over. Joined the Michigan Cricket Club.  
    Got involved in campus life—joined a few clubs, explored different interests, and even did research at the Ross School of Business. 
 
 - **ENGR 101, EECS 203:**  
   Was... an experience. Enough said.
 
 - **Solo Trip to New York:**  
-   - Scary. Liberating. 
-   - Got lost. Got found. Got charged $8 for coffee. Worth it.
-   - For the first time, America felt like the version I'd grown up seeing in movies— loud, alive, a little overwhelming, and kind of magical.  
-   - Walked for hours, tried the famous $1 pizza, and crossed "New York cheesecake" off my bucket list.  
+   Scary. Liberating.   
+   Got lost. Got found. Got charged $8 for coffee. Worth it.  
+   For the first time, America felt like the version I'd grown up seeing in movies— loud, alive, a little overwhelming, and kind of magical.    
+   Walked for hours, tried the famous $1 pizza, and crossed "New York cheesecake" off my bucket list.   
 
 - **First Winter:**  
-   Made a snowman. Had a snowball fight at the Diag. Took way too many photos. 
-   Tried ice skating for the first time. Fell down. Repeatedly..
-   Spent my first Christmas in America. Traveled to San Francisco. Almost died.. 
+   Made a snowman. Had a snowball fight at the Diag. Took way too many photos.  
+   Tried ice skating for the first time. Fell down. Repeatedly..  
+   Spent my first Christmas in America. Traveled to San Francisco. Almost died..  
 
 - **Freshman Year Flew By:**  
   Missed the filter coffee, the curd rice, and the dosas more than I expected—can't wait to go back home.  
