@@ -50,8 +50,9 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
 - **First Winter:**  
    Made a snowman. Had a snowball fight at the Diag. Took way too many photos.  
    Tried ice skating for the first time. Fell down. Repeatedly..  
-   Spent my first Christmas in America. Traveled to San Francisco. Almost died..  
-
+   Spent my first Christmas in America. Traveled to San Francisco. 
+  Almost died. Literally. Got threatened and had a sword pulled on me on New Year’s Eve. Talk about starting the year with a sharp turn.
+  
 - **Freshman Year Flew By:**  
   Missed the filter coffee, the curd rice, and the dosas more than I expected—can't wait to go back home.  
   Spent the summer doing research at [Adept Lab](https://porvesh.github.io/experience/), my first real dive into academic work.  

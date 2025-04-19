@@ -28,7 +28,7 @@ Junior year was *that* year for me.
 
 - **A Few Memorable Events**  
 	**Michigan Football** became national champions! We beat Ohio State *again*—of course. I couldn't make it to many games through all the chaos, but I did get to experience the historic **Victors' Walk** after we won it all. **GO BLUE**.  
-	Dressed up as **Rick from *Rick and Morty*** for Halloween.  
+	Dressed up as **Rick** from *Rick and Morty* for Halloween.  
 	Played in multiple **cricket tournaments**, won **Man of the Match** awards, and helped Michigan win the **Midwest Championship**!  
 	Watched the **solar eclipse**—a true bucket-list moment.
 
