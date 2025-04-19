@@ -22,12 +22,11 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
   Realized America was expensive. California? Even more so.
 
 - **Moved into College:**  
-   Packed my bags, flew across the world, and moved into the dorms. America was... different from what I expected. Still is.
-   Salads and pizza became breakfast. Sometimes dinner. Occasionally both.
+   Packed my bags, flew across the world, and moved into the dorms. America was... different from what I expected. Still is.  
+   Salads and pizza became breakfast. Sometimes dinner. Occasionally both.  
 
 - **The Big House:**  
-  Went to my first football game at *The Big House*. Tried my best to understand the game. The vibes were immaculate.
-  GO BLUE
+  First football game at The Big House. Didn’t understand the rules, but I understood the energy. GO BLUE.  
 
 - **College**   
   Tried to make friends. Tried to find my people. Tried to find things that felt like "me." Some days I did. Some days I didn't. Still trying.
@@ -46,7 +45,7 @@ Met people from all walks of life. Everyone had stories, perspectives, and exper
    Scary. Liberating.   
    Got lost. Got found. Got charged $8 for coffee. Worth it.  
    For the first time, America felt like the version I'd grown up seeing in movies— loud, alive, a little overwhelming, and kind of magical.    
-   Walked for hours, tried the famous $1 pizza, and crossed "New York cheesecake" off my bucket list.   
+   Walked for hours, tried the famous $1 pizza, took the subway with a pigeon and crossed "New York cheesecake" off my bucket list.   
 
 - **First Winter:**  
    Made a snowman. Had a snowball fight at the Diag. Took way too many photos.  

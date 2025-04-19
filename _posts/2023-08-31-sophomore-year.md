@@ -29,10 +29,9 @@ Had a solid friend group by now. Went out more, socialized, and dabbled in the s
   Cool city though — good mix of skyline, water, and chaos.
 
 - **The Winter**  
-  First *white* Christmas. Looked magical. Felt... cold and kinda lonely.   
+  First *white* Christmas. Looked magical. Felt... cold and kinda lonely. Ann Arbor basically turned into a ghost town.   
   Walked a mile along the Huron River — quiet, frozen, peaceful.    
-  Ann Arbor basically turned into a ghost town. First time I walked across campus and saw *nobody*.   
-  Visited Detroit. Safe to say it lived up to the reputation — not in a good way.   
+  Visited Detroit. Safe to say it lived up to the reputation.   
   Finished playing *God of War* - absolutely worth every second.    
 
 - **A Shift in Focus**  
@@ -56,7 +55,6 @@ Had a solid friend group by now. Went out more, socialized, and dabbled in the s
   Also took a trip to **Shimla** and **Darjeeling** — breathtaking as always.  
   A poem I wrote [here](https://porvesh.github.io/tyger-tyger-burning-bright/).  
   The diversity of India still stuns me. Different people, cultures, languages — all in one country.  
-
   Visited the **India-China border**. Speechless.  
   See some of the photos [here](https://porvesh.github.io/photography/).
 
@@ -67,10 +65,10 @@ Had a solid friend group by now. Went out more, socialized, and dabbled in the s
   Worked on some cool stuff, saw some wild planes at the hangar.
 
   - Visited DC — green, clean, and such a contrast to NYC or Chicago.  
-  - Went to the **Baltimore Aquarium**, and a **baseball game**.  
-  - Visited **NYC** for a weekend — jogging across **Central Park in the summer** is a whole vibe.  
+  - Went to the Baltimore Aquarium, a baseball game rooting for the Orioles, and played Topgolf.
+  - Weekend in NYC — jogged through Central Park, ate at the first place I saw every day.   
   - Spent a week in **Philly** catching up with friends. Went to **Atlantic City**. Didn’t gamble.  
-  - The **Smithsonian** is still undefeated. Best planes ever. 
+  - The **Smithsonian** National Air and Space Museum is still undefeated. Best planes ever. 
 
 - **Quotes That Hit Different This Year:**  
   "This is the part where you find out who you are." — *The Perks of Being a Wallflower*  
