@@ -6,7 +6,7 @@ excerpt: Chaos isn’t a pit—it’s a ladder.
 tags: ["2024", "Junior Year", "Summary"]
 ---
 
-2023. The year everything got a little more real.
+The year everything got a little more real. 
 
 There’s always that one year in college where things stop being light and breezy. Where you're constantly swamped, juggling five things at once, running on caffeine and vibes.  
 Junior year was *that* year for me.
