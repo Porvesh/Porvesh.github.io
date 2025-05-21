@@ -45,11 +45,12 @@ Junior year was *that* year for me.
 	Went to **Ohio** twice. Saw **Lake Erie**, a couple of parks, and played some mini golf.  
 	Cooked **every single meal** for 3 months and went to the **gym every day**. Peak college achievement, honestly.  
 	Played Division One cricket in the Michigan Cricket League. Felt good to be back on the pitch.  
-	Played a bunch of games:   
+	Played a bunch of games:
 	- **God of War: Ragnarök** — might just have the best game ending I’ve ever seen.  
 	- **Ghost of Tsushima** — incredible swordplay, smooth combat, and hands down the most beautiful game I’ve ever played. Now I kinda want to go to Japan.  
 	- **Hogwarts Legacy** — brought me back to middle school Harry Potter days.  
 	- **Spider-Man** — swinging through New York never gets old.
+   
 	My era of moving away from games with guns and cars.
 
 
