@@ -49,7 +49,7 @@ Junior year was *that* year for me.
 	- **God of War: Ragnarök** — might just have the best game ending I’ve ever seen.  
 	- **Ghost of Tsushima** — incredible swordplay, smooth combat, and hands down the most beautiful game I’ve ever played. Now I kinda want to go to Japan.  
 	- **Hogwarts Legacy** — brought me back to middle school Harry Potter days.  
-	- **Spider-Man** — swinging through New York never gets old.
+	- **Spider-Man** — swinging through New York never gets old.	
 	My era of moving away from games with guns and cars.
 
 
