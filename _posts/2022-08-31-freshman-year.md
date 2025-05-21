@@ -89,4 +89,4 @@ Some days I felt lost. Some days I felt alive.
 
 Here's to Sophomore year. 
 
-Peace.
+**Peace.**

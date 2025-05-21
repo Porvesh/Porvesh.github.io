@@ -41,10 +41,15 @@ Junior year was *that* year for me.
 - **Summer in Ann Arbor**  
 	Worked in two [**research labs**](https://porvesh.github.io/experience/) doing robotics—built a racecar in one, explored distributed systems in the other.  
 	Went to **Ohio** twice. Saw **Lake Erie**, a couple of parks, and played some mini golf.  
-	Cooked **every single meal** for 3 months and went to the **gym every day**. Peak college achievement, honestly.  
-	Played **God of War: Ragnarök**—one of the best game endings I've ever experienced.  
+	Cooked **every single meal** for 3 months and went to the **gym every day**. Peak college achievement, honestly. 
 	Played Division One cricket in the Michigan Cricket League. Felt good to be back on the pitch.
-	Finished **Ghost of Tsushima**—incredible swordplay, smooth combat, and hands down the most beautiful game I've ever played. Now I kinda want to go to Japan.
+	Played a bunch of games:
+		**God of War: Ragnarök** — might just have the best game ending I’ve ever seen.
+		**Ghost of Tsushima** — incredible swordplay, smooth combat, and hands down the most beautiful game I've ever played. Now I kinda want to go to Japan.
+		**Played Hogwarts Legacy** - Brought be back to middle school harry potter days
+		**Spider Man** - Swinging through New York never gets old
+
+		My era of moving away from games with guns and cars. 
 
 - **Back to India**  
 	Realized it might be my last trip to India for a while—a tough pill to swallow. So I made the most of it: hit all my favorite food spots, overdosed on filter coffee, ate way too much pani puri, and checked off everything I wanted to do.  
