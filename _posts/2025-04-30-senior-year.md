@@ -6,7 +6,7 @@ excerpt: The shortest year, the longest goodbyes.
 tags: ["2025", "Senior Year", "Summary"]
 ---
 
-I think there is time in college, where your conversations go from talking about the cool things you could do in the future, to the cool things you did in the past. Filled with inside jokes, nostalgia, and funny incidents from the past. 
+I think there is time in college, where your conversations go from talking about the cool things you could do in the future, to the cool things you did in the past. Filled with inside jokes, nostalgia, and funny incidents from the past.  
 That's when you know, you are close to the end.
 
 That was senior year. Filled with jokes from the past, moments from the present, and the stress of what the future holds. 
@@ -16,14 +16,14 @@ That was senior year. Filled with jokes from the past, moments from the present,
 ### Highlights of the Year
 
 - **Campus Life**   
-    Arrived in Ann Arbor two weeks after college started—landed at 4 PM, got picked up from the airport, and went *straight* to a **Green Day concert**. First concert in the US, and honestly, safe to say *I never wanted that September to end.*  
+    Arrived in Ann Arbor two weeks after college started—landed at 4 PM, got picked up from the airport, and went *straight* to a **Green Day concert**. First concert in the US, and honestly, safe to say **I never wanted that September to end.**
     Went to **every football game**. Not our best season, but we still managed to beat **Ohio State** again, so I’ll call it a win.  
     Stuck to **none of my plans**. Treated every event like it was the last. Hit every bar on campus—probably twice. No regrets.  
     Took just **one class** senior year: [**Computer Architecture**](https://porvesh.github.io/projects/2024-12-12-architecture/).  
-    *Pro tip: maybe don’t tell your project teammates you're only doing one class.*
+    *Pro tip: maybe don’t tell your project teammates you're only doing one class.*   
     Built a processor though, so—worth it.  
     **Halloween weekend** was fun. Rotated between a **ghost**, a **banana**, and a **cop** (a *law-abiding* one, of course).  
-    Spent a weekend in Los Angeles—quiet beach, warm breeze, and a sunset that refused to end.  
+    Spent a weekend in **Los Angeles**—quiet beach, warm breeze, and a sunset that refused to end.  
     A few close friends moved to the U.S. this year, and I finally got to **show them around**—my campus, my life, the version of me they hadn’t met yet. It’s something I’ve always wanted to do.  
 
 - **Cricket Game**  
@@ -60,27 +60,27 @@ That was senior year. Filled with jokes from the past, moments from the present,
 - **Winter Semester**  
   Winter semester lasted 10 days. Came back to Michigan to pack up and start a new chapter of my life in **San Francisco**, working at [**Bronco AI**](https://www.bronco.ai/).  
   Spent those final days with friends—great food, better conversations, and a lot of quiet moments where we pretended it wasn’t ending.   
-  Sad to leave, but ready—excited—to start a new chapter.   
+  Sad to leave, but ready—**excited**—to start a new chapter.   
 
 - **San Francisco**  
-  Lived in an Airbnb, a hacker house, and a friend’s place over the course of 3 months.  
+  Lived in an Airbnb, a **hacker house**, and a friend’s place over the course of 3 months.  
   Went on a hike every weekend—saw the redwoods, walked along the Pacific coastline, and joined a local [**cricket team**](https://marincricketclub.com/).  
   Caught a **Warriors vs. Pistons** game and watched **Draymond Green** sink a game-winning three.  
-  Realized I missed the college town rhythm—the late-night walks, spontaneous plans, and running into familiar faces everywhere. Ann Arbor has a quiet magic you only notice once you're gone.  
+  Realized I missed the college town rhythm—the late-night walks, spontaneous plans, and running into familiar faces everywhere. Ann Arbor has a quiet **magic** you only notice once you're gone.  
   Worked long hours at a startup, played **pickleball**, ate **Sweetgreen**, and ran on **caffeine**.  
   Peak **SF tech bro moment**.  
   Oh, and I [**joined Twitter**](https://x.com/porveshb).   
 
 - **Graduation**  
-  The *un-peak* SF tech bro moment—I didn’t drop out.  
+  The **un-peak** SF tech bro moment—I didn’t drop out.  
   Took graduation photos, went to the **senior bar crawl** (basically every day), cleaned the apartment before my family arrived—just for them to say it was still dirty.  
   Wiped a few tears while handing over my keys.  
   **Capped it off with a 4-hour ceremony** just to shake hands for **5 seconds** and spend **10 seconds** pronouncing *Balasubramanian*.  
-  Iconic.
+  Iconic. 
   *P.S. Did get my tie complimented on stage—wore a maize and blue ducky tie.*
 
   It was also the **first time my family visited college**, which made it all the more special.  
-  We planned a graduation trip—**stargazing**, **sunsets over Lake Michigan**, **tulips in Holland**, and stood at the edge of the **Niagara Falls** (U.S. side, of course, where the mist hits harder than the view and where you mostly just hear how nice it looks in Canada.)
+  We planned a graduation trip—**stargazing**, **sunsets over Lake Michigan**, **tulips in Holland**, and stood at the edge of the **Niagara Falls** (U.S. side, of course, where the mist hits harder than the view and where you mostly just hear how nice it looks in Canada.) 
   Then flipped the vibe completely-with the giant billboards, and signature **weed-scented breeze** of **New York City**.  
   The **Met** turned out to be my favorite museum there.
 
@@ -89,6 +89,7 @@ That was senior year. Filled with jokes from the past, moments from the present,
   "How lucky I am to have something that makes saying goodbye so hard.” — *A.A. Milne (Winnie the Pooh)*  
   “Beginnings are usually scary, and endings are usually sad. But it’s everything in between that makes it all worth it.” — *Bob Marley*    
   Began with this quote. Ending with it, too. 
+
 ---
 
 ### Looking Back
@@ -107,31 +108,31 @@ Questions I’m proud to be asking.
 I’ve failed things I thought I’d ace. Aced things I thought I’d fail.  
 Had nights I laughed so hard I couldn’t breathe, and others where the silence in my apartment felt louder than anything.
 
-Ann Arbor taught me a lot—some of it in classrooms, most of it outside. 
-It taught me how to sit with failure and still get up the next day. 
-How to be present—especially on the bad days. 
-That homesickness doesn’t mean you chose wrong, just that you left something worth missing. 
-How to be okay with not knowing what comes next.  
-That some moments deserve to be lived, not posted.  
+Ann Arbor taught me a lot—some of it in classrooms, most of it outside.   
+It taught me how to sit with failure and still get up the next day.   
+How to be present—especially on the bad days.   
+That homesickness doesn’t mean you chose wrong, just that you left something worth missing.   
+How to be okay with not knowing what comes next.    
+That some moments deserve to be lived, not posted.    
 That when you hit rock bottom, the only way forward is up.  
-That growth rarely feels like growth when it’s happening. 
-That no work gets done after 2 a.m.—and yet, we kept trying anyway. 
+That growth rarely feels like growth when it’s happening.   
+That no work gets done after 2 a.m.—and yet, we kept trying anyway.   
 And somewhere between welcome week and that five-second walk across the stage,  
 I became someone I’m proud to know. 
 
 The scariest thing is probably how fast it all went.  
-The most comforting? That I made the most of it while I had it. 
+The most comforting? That I made the most of it while I had it.   
 
-So here’s to the skipped lectures and the late-night study grinds,  
-The Joe’s Pizza runs at midnight and the mystery shots at Charley’s,  
-The three-hour Thursday line at Rick’s that we lined up for anyway, 
-The last-minute plans, the questionable choices, the mid-semester meltdowns—  
-and the people who made this town feel like home. 
+So here’s to the skipped lectures and the late-night study grinds,    
+The Joe’s Pizza runs at midnight and the mystery shots at Charley’s,    
+The three-hour Thursday line at Rick’s that we lined up for anyway,   
+The last-minute plans, the questionable choices, the mid-semester meltdowns,    
+and the people who made this town feel like home.   
 
-Here’s to the kid who arrived full of wonder, 
+Here’s to the kid who arrived full of wonder,   
 And the person that’s walking out—tired, maybe, but a little more whole.  
 
-What I wrote here? Just an average Wednesday night conversation with my roommate. 
+What I wrote here? Just an average Wednesday night conversation with my roommate.   
 
 Here’s to taxes, full-time jobs, and to whatever comes after the cap and gown.  
 
