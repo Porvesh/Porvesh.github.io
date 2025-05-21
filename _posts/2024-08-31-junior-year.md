@@ -2,13 +2,13 @@
 layout: post
 title: "Junior Year"
 date: 2024-08-31 00:00:00 -0400
-excerpt: Chaos isn’t a pit—it’s a ladder.
+excerpt: Chaos isn't a pit—it's a ladder.
 tags: ["2024", "Junior Year", "Summary"]
 ---
 
 The year everything got a little more real. 
 
-There’s always that one year in college where things stop being light and breezy. Where you're constantly swamped, juggling five things at once, running on caffeine and vibes.  
+There's always that one year in college where things stop being light and breezy. Where you're constantly swamped, juggling five things at once, running on caffeine and vibes.  
 
 Junior year was *that* year for me.
 
@@ -46,11 +46,12 @@ Junior year was *that* year for me.
 	Cooked **every single meal** for 3 months and went to the **gym every day**. Peak college achievement, honestly. 	
 	Played Division One cricket in the Michigan Cricket League. Felt good to be back on the pitch.	
 	Played a bunch of games:	
-		**God of War: Ragnarök** — might just have the best game ending I’ve ever seen.		
-		**Ghost of Tsushima** — incredible swordplay, smooth combat, and hands down the most beautiful game I've ever played. Now I kinda want to go to Japan.		
-		**Played Hogwarts Legacy** - Brought be back to middle school harry potter days. 	
-		**Spider Man** - Swinging through New York never gets old. 	
-	My era of moving away from games with guns and cars. 	
+		- **God of War: Ragnarök** — might just have the best game ending I've ever seen.	
+		- **Ghost of Tsushima** — incredible swordplay, smooth combat, and hands down the most beautiful game I've ever played. Now I kinda want to go to Japan.	
+		- **Hogwarts Legacy** — brought me back to middle school Harry Potter days.		
+		- **Spider-Man** — swinging through New York never gets old.	
+	
+	My era of moving away from games with guns and cars. 		
 
 - **Back to India**  
 	Realized it might be my last trip to India for a while—a tough pill to swallow. So I made the most of it: hit all my favorite food spots, overdosed on filter coffee, ate way too much pani puri, and checked off everything I wanted to do.  
