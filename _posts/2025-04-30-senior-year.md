@@ -38,7 +38,7 @@ That was senior year. Filled with jokes from the past, moments from the present,
     Sport, man. 
     It humbles you fast.  
     One moment you’re the hero, the next you’re questioning everything.   
-    But it teaches you—about pressure, composure, and how quickly the game (and life) can flip. 
+    But it teaches you—about pressure, composure, and how quickly the game (and life) can flip.   
     You can be on top one moment… and dropped the next. 
 
     All great athletes have gone through moments like this.   
