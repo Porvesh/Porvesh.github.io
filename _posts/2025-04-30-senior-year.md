@@ -7,6 +7,7 @@ tags: ["2025", "Senior Year", "Summary"]
 ---
 
 I think there is time in college, where your conversations go from talking about the cool things you could do in the future, to the cool things you did in the past. Filled with inside jokes, nostalgia, and funny incidents from the past.  
+
 That's when you know, you are close to the end.
 
 That was senior year. Filled with jokes from the past, moments from the present, and the stress of what the future holds. 
@@ -16,9 +17,9 @@ That was senior year. Filled with jokes from the past, moments from the present,
 ### Highlights of the Year
 
 - **Campus Life**   
-    Arrived in Ann Arbor two weeks after college started—landed at 4 PM, got picked up from the airport, and went *straight* to a **Green Day concert**. First concert in the US, and honestly, safe to say **I never wanted that September to end.**
+    Arrived in Ann Arbor two weeks after college started—landed at 4 PM, got picked up from the airport, and went *straight* to a **Green Day concert**. First concert in the US, and honestly, safe to say **I never wanted that September to end.**   
     Went to **every football game**. Not our best season, but we still managed to beat **Ohio State** again, so I’ll call it a win.  
-    Stuck to **none of my plans**. Treated every event like it was the last. Hit every bar on campus—probably twice. No regrets.  
+    Stuck to **none of my plans**. Treated every event like it was the last. Hit every bar on campus—probably twice. *No regrets.*  
     Took just **one class** senior year: [**Computer Architecture**](https://porvesh.github.io/projects/2024-12-12-architecture/).  
     *Pro tip: maybe don’t tell your project teammates you're only doing one class.*   
     Built a processor though, so—worth it.  
@@ -36,19 +37,19 @@ That was senior year. Filled with jokes from the past, moments from the present,
 
     Sport, man. 
     It humbles you fast.  
-    One moment you’re the hero, the next you’re questioning everything. 
+    One moment you’re the hero, the next you’re questioning everything.   
     But it teaches you—about pressure, composure, and how quickly the game (and life) can flip. 
     You can be on top one moment… and dropped the next. 
 
-    All great athletes have gone through moments like this. 
+    All great athletes have gone through moments like this.   
     Makes you pause and really appreciate how they handle pressure, criticism, and public scrutiny and a billion dreams.  
-    At the highest levels, sport becomes more mental than physical. 
-    And it takes something deeper than skill to keep showing up.  
+    At the highest levels, sport becomes more mental than physical.   
+    And it takes something deeper than skill to keep showing up.    
 
     That game stung. Still does. But it taught me a few things.   
-    That you learn more from the days you fall short than the ones where everything goes right. 
-    That confidence isn’t built on success—it’s built on recovery.  
-    That showing up after failure takes way more strength than showing up when you’re winning.  
+    That you learn more from the days you fall short than the ones where everything goes right.   
+    That confidence isn’t built on success—it’s built on recovery.    
+    That showing up after failure takes way more strength than showing up when you’re winning.    
     And that even when you lose, you leave with something—perspective, resilience, and the knowledge that you’ll be ready when it’s your turn again.  
 
 - **Winter Break**  
@@ -59,7 +60,7 @@ That was senior year. Filled with jokes from the past, moments from the present,
 
 - **Winter Semester**  
   Winter semester lasted 10 days. Came back to Michigan to pack up and start a new chapter of my life in **San Francisco**, working at [**Bronco AI**](https://www.bronco.ai/).  
-  Spent those final days with friends—great food, better conversations, and a lot of quiet moments where we pretended it wasn’t ending.   
+  Spent those final days with friends—great food, better conversations, and a lot of quiet moments where we pretended it wasn’t **ending**.   
   Sad to leave, but ready—**excited**—to start a new chapter.   
 
 - **San Francisco**  
@@ -73,14 +74,14 @@ That was senior year. Filled with jokes from the past, moments from the present,
 
 - **Graduation**  
   The **un-peak** SF tech bro moment—I didn’t drop out.  
-  Took graduation photos, went to the **senior bar crawl** (basically every day), cleaned the apartment before my family arrived—just for them to say it was still dirty.  
+  Took graduation photos, went to the **senior bar crawl** (basically every day), cleaned the apartment before my family arrived—just for them to say it was still **dirty**.  
   Wiped a few tears while handing over my keys.  
-  **Capped it off with a 4-hour ceremony** just to shake hands for **5 seconds** and spend **10 seconds** pronouncing *Balasubramanian*.  
-  Iconic. 
+  **Capped it off with a 4-hour ceremony**-just to shake hands for **5 seconds** and spend **10 seconds** pronouncing *Balasubramanian*.  
+  Iconic.   
   *P.S. Did get my tie complimented on stage—wore a maize and blue ducky tie.*
 
   It was also the **first time my family visited college**, which made it all the more special.  
-  We planned a graduation trip—**stargazing**, **sunsets over Lake Michigan**, **tulips in Holland**, and stood at the edge of the **Niagara Falls** (U.S. side, of course, where the mist hits harder than the view and where you mostly just hear how nice it looks in Canada.) 
+  We planned a graduation trip—**stargazing**, **sunsets over Lake Michigan**, **tulips in Holland**, and stood at the edge of the **Niagara Falls** (U.S. side, of course, where the mist hits harder than the view and where you mostly just hear how nice it looks in Canada.)   
   Then flipped the vibe completely-with the giant billboards, and signature **weed-scented breeze** of **New York City**.  
   The **Met** turned out to be my favorite museum there.
 
@@ -96,7 +97,7 @@ That was senior year. Filled with jokes from the past, moments from the present,
 
 It’s hard to wrap up four years—four versions of myself, really—into a neat little paragraph.  
 College wasn’t just a phase of life. It was a thousand small lives stitched together:  
-early morning walks to class, late-night coding marathons, spontaneous night outs, heartbreaks, victories, bad food, deep conversations, and all the moments in between.
+Early morning walks to class, late-night coding marathons, spontaneous night outs, heartbreaks, victories, bad food, deep conversations, and all the moments in between.
 
 Some semesters felt like they flew by in a blur. Others felt like they might never end.  
 I’ve lived entire story arcs here—found friends I’ll carry forever, lost touch with a few I never thought I would, and somehow kept learning and unlearning who I was the whole time.
