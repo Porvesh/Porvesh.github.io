@@ -32,6 +32,7 @@ Junior year was *that* year for me.
 	Dressed up as **Rick** from *Rick and Morty* for Halloween.  
 	Played in multiple **cricket tournaments**, won **Man of the Match** awards, and helped Michigan win the **Midwest Championship**!  
 	Watched the **solar eclipse**—a true bucket-list moment.
+	Rushed to the **ER** in the middle of the night.
 
 - **Spring Break in Costa Rica**  
 	More like an epic road trip.  
