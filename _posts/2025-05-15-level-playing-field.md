@@ -44,7 +44,7 @@ Sometimes, you have to zoom out.
 Realize life isn’t fair.  
 But that doesn’t mean you can’t build something beautiful out of what you’ve got.
 
-**Something you learn quickly in college**  
+**Something you learn quickly in college:**  
 There’s no such thing as a real level playing field.  
 Where you're from, the language you speak, the color of your skin, whether your country was colonized by the British—it all plays a part in how far you’ve come, and how much further you’ll have to go.  
 It just takes a while to realize it.  
