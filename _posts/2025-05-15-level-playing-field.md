@@ -52,7 +52,8 @@ But your job is to get on the field anyway—
 and **play your heart out**.
 
 You can’t spend your time complaining about the kids who had tutors, AP credits, or parents with referral chains.  
-You have to **outwork that gap**.  
+You have to **outwork that gap**—and sometimes, you won’t.
+And that’s okay.
 
 But don’t regret where you started. You did the best you could with what you knew—and that counts.  
 Growth isn’t about having it all figured out from the beginning. It’s about *moving forward with what you’ve got*.
