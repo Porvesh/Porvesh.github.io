@@ -29,12 +29,12 @@ Sometimes I wonder—would I have preferred that life or this one?
 But there’s a rule I’ve always lived by: *be proud of where you’ve come from—your parents probably fought harder than you’ll ever know to get you here.*  
 And second: *I’m glad I didn’t grow up in a bubble.*  
 Not the school bubble where everyone was set on heading straight to the U.S.  
-Not the college bubble where everyone was building a startup by sophomore year.  
-My life had range. People from all walks. All dreams. All realities.
+Nor the college bubble where everyone was building startups by sophomore year.  
+My life had range. People from all walks of life. All kinds of dreams. All kinds of realities.  
 
 And that helped.  
 It made me realize I’m doing what I want to do—**not because of peer pressure**, but because *I chose it*.  
-It gave me perspective, empathy, and a way to connect with people whose paths looked nothing like mine.  
+It gave me perspective, empathy, and the ability to understand people whose stories looked nothing like mine.   
 These aren’t things we count when we talk about “level playing fields.”  
 We talk about connections. Referrals. Who knows who.  
 But we don’t talk enough about the **invisible skills**—the ability to adapt, to empathize, to navigate uncomfortable spaces with grace.  
