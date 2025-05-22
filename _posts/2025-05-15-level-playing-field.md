@@ -23,7 +23,7 @@ A kind of **invisible awareness** you didn’t even know you were supposed to ha
 And the worst part? You don’t even realize the game started before you showed up.
 
 Funny how that same realization resurfaced senior year, just dressed differently.  
-Freshman year and senior year ended up sharing more roundabout thoughts than I expected.
+Freshman year and senior year ended up sharing more **roundabout** thoughts than I expected.
 
 Sometimes I wonder—would I have preferred that life or this one?  
 But there’s a rule I’ve always lived by: *be proud of where you’ve come from—your parents probably fought harder than you’ll ever know to get you here.*  
@@ -35,7 +35,7 @@ My life had range. People from all walks of life. All kinds of dreams. All kinds
 And that helped.  
 It made me realize I’m doing what I want to do—**not because of peer pressure**, but because *I chose it*.  
 It gave me perspective, empathy, and the ability to understand people whose stories looked nothing like mine.   
-These aren’t things we count when we talk about “level playing fields.”  
+These aren’t things we count when we talk about **“level playing fields.”**  
 We talk about connections. Referrals. Who knows who.  
 But we don’t talk enough about the **invisible skills**—the ability to adapt, to empathize, to navigate uncomfortable spaces with grace.  
 The kind of skills that help you not just meet great people, but *understand* them.
@@ -53,14 +53,14 @@ and **play your heart out**.
 
 You can’t spend your time complaining about the kids who had tutors, AP credits, or parents with referral chains.  
 You have to **outwork that gap**—and sometimes, you won’t.
-And that’s okay.
+And **that’s okay.**
 
 But don’t regret where you started. You did the best you could with what you knew—and that counts.  
-Growth isn’t about having it all figured out from the beginning. It’s about *moving forward with what you’ve got*.
+Growth isn’t about having it all figured out from the beginning. It’s about **moving forward with what you’ve got**.
 
 And if you’re one of the lucky ones—if you *do* have access, support, the right circles, or the referral chains—use them.  
 Use them without guilt. Just **don’t forget to open that door for someone else, too.**
 
 Because in the long run, you’re not just building a career.  
 **You’re building who you are.**  
-And that’ll always be your **greatest edge**.
+And that’ll always be your **greatest edge.**
