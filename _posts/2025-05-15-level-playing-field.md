@@ -52,7 +52,7 @@ But your job is to get on the field anyway—
 and **play your heart out**.
 
 You can’t spend your time complaining about the kids who had tutors, AP credits, or parents with referral chains.  
-You have to **outwork that gap**—and sometimes, you won’t.
+You have to **outwork that gap**—and sometimes, you won’t.   
 And **that’s okay.**
 
 But don’t regret where you started. You did the best you could with what you knew—and that counts.  
