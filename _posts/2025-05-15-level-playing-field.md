@@ -19,7 +19,7 @@ I used to think college was a leveler.
 Back in Chennai, in school, the playing field felt equal—same textbooks, same exams, same teachers. I believed success was purely about effort.  
 But college made one thing clear: **level playing fields don’t really exist**.  
 Some people arrive with a head start—networks, referrals, AP classes, SAT tutors, international schools, parents in tech.  
-A kind of *invisible awareness* you didn’t even know you were supposed to have.  
+A kind of **invisible awareness** you didn’t even know you were supposed to have.  
 And the worst part? You don’t even realize the game started before you showed up.
 
 Funny how that same realization resurfaced senior year, just dressed differently.  
@@ -37,28 +37,28 @@ It made me realize I’m doing what I want to do—**not because of peer pressur
 It gave me perspective, empathy, and a way to connect with people whose paths looked nothing like mine.  
 These aren’t things we count when we talk about “level playing fields.”  
 We talk about connections. Referrals. Who knows who.  
-But we don’t talk enough about the *invisible skills*—the ability to adapt, to empathize, to navigate uncomfortable spaces with grace.  
+But we don’t talk enough about the **invisible skills**—the ability to adapt, to empathize, to navigate uncomfortable spaces with grace.  
 The kind of skills that help you not just meet great people, but *understand* them.
 
 Sometimes, you have to zoom out.  
 Realize life isn’t fair.  
 But that doesn’t mean you can’t build something beautiful out of what you’ve got.
 
-**Something you learn quickly in college:**  
+**Something you learn quickly in college**  
 There’s no such thing as a real level playing field.  
 Where you're from, the language you speak, the color of your skin, whether your country was colonized by the British—it all plays a part in how far you’ve come, and how much further you’ll have to go.  
 It just takes a while to realize it.  
 But your job is to get on the field anyway—  
-and *play your heart out*.
+and **play your heart out**.
 
 You can’t spend your time complaining about the kids who had tutors, AP credits, or parents with referral chains.  
-You have to *outwork that gap*.  
+You have to **outwork that gap**.  
 
 But don’t regret where you started. You did the best you could with what you knew—and that counts.  
 Growth isn’t about having it all figured out from the beginning. It’s about *moving forward with what you’ve got*.
 
 And if you’re one of the lucky ones—if you *do* have access, support, the right circles, or the referral chains—use them.  
-Use them without guilt. Just *don’t forget to open that door for someone else, too.*
+Use them without guilt. Just **don’t forget to open that door for someone else, too.**
 
 Because in the long run, you’re not just building a career.  
 **You’re building who you are.**  

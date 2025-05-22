@@ -73,7 +73,8 @@ That was senior year. Filled with jokes from the past, moments from the present,
   Peak **SF tech bro moment**.  
   Oh, and I [**joined Twitter**](https://x.com/porveshb).   
 
-  [A small article I wrote after first moving here to SF]()
+  Here’s [a small article I wrote after first moving to SF](https://porvesh.github.io/level-playing-field/)
+  
 - **Graduation**  
   The **un-peak** SF tech bro moment—I didn’t drop out.  
   Took graduation photos, went to the **senior bar crawl** (basically every day), cleaned the apartment before my family arrived—just for them to say it was still **dirty**.  
