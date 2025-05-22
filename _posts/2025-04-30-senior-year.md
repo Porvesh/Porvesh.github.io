@@ -67,11 +67,13 @@ That was senior year. Filled with jokes from the past, moments from the present,
   Lived in an Airbnb, a **hacker house**, and a friend’s place over the course of 3 months.  
   Went on a hike every weekend—saw the redwoods, walked along the Pacific coastline, and joined a local [**cricket team**](https://marincricketclub.com/).  
   Caught a **Warriors vs. Pistons** game and watched **Draymond Green** sink a game-winning three.  
+  Working as a Founding Engineer at [**Bronco AI**](https://www.bronco.ai/).  
   Realized I missed the college town rhythm—the late-night walks, spontaneous plans, and running into familiar faces everywhere. Ann Arbor has a quiet **magic** you only notice once you're gone.  
   Worked long hours at a startup, played **pickleball**, ate **Sweetgreen**, and ran on **caffeine**.  
   Peak **SF tech bro moment**.  
   Oh, and I [**joined Twitter**](https://x.com/porveshb).   
 
+  [A small article I wrote after first moving here to SF]()
 - **Graduation**  
   The **un-peak** SF tech bro moment—I didn’t drop out.  
   Took graduation photos, went to the **senior bar crawl** (basically every day), cleaned the apartment before my family arrived—just for them to say it was still **dirty**.  
