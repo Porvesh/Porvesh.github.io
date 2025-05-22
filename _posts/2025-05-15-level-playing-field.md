@@ -63,4 +63,5 @@ Use them without guilt. Just **don’t forget to open that door for someone else
 
 Because in the long run, you’re not just building a career.  
 **You’re building who you are.**  
-And that’ll always be your **greatest edge.**
+And that’ll always be your **greatest edge.**.    
+I came in feeling out of place. I’m leaving knowing I belong.
