@@ -46,7 +46,8 @@ But that doesn’t mean you can’t build something beautiful out of what you’
 
 **Something you learn quickly in college:**  
 There’s no such thing as a real level playing field.  
-Where you're from, the language you speak, the color of your skin, whether your country was colonized by the British—it all plays a part in how far you’ve come, and how much further you’ll have to go.  
+Where you're from, the language you speak, the color of your skin, whether your country was colonized by the British—it all plays a part in how far you’ve come, and how much further you’ll have to go.   
+Some of it was decided long before you were even born.    
 It just takes a while to realize it.  
 But your job is to get on the field anyway—  
 and **play your heart out**.
@@ -63,5 +64,6 @@ Use them without guilt. Just **don’t forget to open that door for someone else
 
 Because in the long run, you’re not just building a career.  
 **You’re building who you are.**  
-And that’ll always be your **greatest edge.**.    
+And that’ll always be your **greatest edge.**.
+
 I came in feeling out of place. I left knowing I belong.
