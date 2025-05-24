@@ -42,7 +42,7 @@ That was senior year. Filled with jokes from the past, moments from the present,
     You can be on top one moment… and dropped the next. 
 
     All great athletes have gone through moments like this.   
-    Makes you pause and really appreciate how they handle pressure, criticism, and public scrutiny and a billion dreams.  
+    Makes you pause and really appreciate how they handle pressure, criticism, public scrutiny and a billion dreams.  
     At the highest levels, sport becomes more mental than physical.   
     And it takes something deeper than skill to keep showing up.    
 
@@ -89,7 +89,7 @@ That was senior year. Filled with jokes from the past, moments from the present,
   The **Met** turned out to be my favorite museum there.
 
 - **Quotes That Hit Different This Year**  
-  “Some people graduate with honors, I am just honored to graduate.” - *Andy Bernard, The Office* 
+  “Some people graduate with honors, I am just honored to graduate.” - *Andy Bernard, The Office*     
   "How lucky I am to have something that makes saying goodbye so hard.” — *A.A. Milne (Winnie the Pooh)*  
   “Beginnings are usually scary, and endings are usually sad. But it’s everything in between that makes it all worth it.” — *Bob Marley*    
   Began with this quote. Ending with it, too. 
