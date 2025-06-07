@@ -11,6 +11,8 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://porvesh.github.io
 baseurl:            ""
+
+# Jekyll
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
@@ -24,6 +26,15 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+
+plugins:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-redirect-from
+
+redirect_to: https://porveshb.com
 
 # Comments
 disqus_shortname:   porvesh
