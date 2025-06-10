@@ -7,21 +7,36 @@ redirect_to: https://porveshb.com
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Redirecting to porveshb.com</title>
-    <meta http-equiv="refresh" content="0; url=https://porveshb.com">
-    <link rel="canonical" href="https://porveshb.com">
+    <title>Redirecting...</title>
     <script>
       // Get the current path
-      var path = window.location.pathname;
-      // Remove leading slash if present
-      path = path.replace(/^\//, '');
-      // Redirect to the same path on the new domain
-      window.location.href = 'https://porveshb.com/' + path;
+      var currentPath = window.location.pathname;
+      
+      // Remove any trailing slashes
+      currentPath = currentPath.replace(/\/+$/, '');
+      
+      // If it's the root path, just go to the main site
+      if (currentPath === '' || currentPath === '/') {
+        window.location.href = 'https://porveshb.com';
+      } else {
+        // Otherwise, preserve the path
+        window.location.href = 'https://porveshb.com' + currentPath;
+      }
     </script>
+    <!-- Fallback meta refresh -->
+    <noscript>
+      <meta http-equiv="refresh" content="0;url=https://porveshb.com">
+    </noscript>
   </head>
   <body>
-    <h1>Redirecting...</h1>
-    <p>If you are not redirected automatically, click here: <a href="https://porveshb.com">porveshb.com</a></p>
+    <h1>Redirecting to porveshb.com...</h1>
+    <p>If you are not redirected automatically, click <a href="https://porveshb.com">here</a>.</p>
+    <script>
+      // Backup redirect in case the first script fails
+      setTimeout(function() {
+        window.location.href = 'https://porveshb.com' + window.location.pathname;
+      }, 1000);
+    </script>
   </body>
 </html>
 
