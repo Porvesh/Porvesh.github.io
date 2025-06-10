@@ -1,16 +1,16 @@
 	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 		<button class="dl-trigger">Open Menu</button>
 		<ul class="dl-menu" style="background-color:rgba(0,0,0,1)">
-			<li><a href="{{ site.url }}/">Home</a></li>
+			<li><a href="https://porveshb.com/">Home</a></li>
 			<li>
 				<a href="#">About</a>
 				<ul class="dl-submenu" style="background-color:rgba(0,0,0,1)">
 					<li>
-						<img src="{{ site.url }}/{{ site.logo1 }}" alt="{{ site.title }} photo" class="author-photo">
+						<img src="https://porveshb.com/{{ site.logo1 }}" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
-					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">Learn More</span></a></li>
+					<li><a href="https://porveshb.com/about/"><span class="btn btn-inverse">Learn More</span></a></li>
 					{% if site.email %}<li>
                         <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
                     </li>{% endif %}
@@ -90,7 +90,7 @@
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
 		        {% else %}
-		        {% assign domain = site.url %}
+		        {% assign domain = 'https://porveshb.com' %}
 		    {% endif %}
 		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
 		  {% endfor %}
